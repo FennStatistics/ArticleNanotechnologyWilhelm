@@ -1,0 +1,13 @@
+id,title,x_pos,y_pos,width,height,shape,creator,num,comment,timestamp,modifiable,CAM
+29382,Increases soldiers chance of accomplishment,71.0,514.0,160.0,120.0,positive,1080,14.0,,17:29:43,1,1930
+29381,Could affect the prepardness of soldiers to kill,265.0,533.0,160.0,120.0,negative strong,1080,13.0,,,1,1930
+29380,Optimise learning curved,338.0,20.0,160.0,120.0,positive strong,1080,12.0,,17:27:01,1,1930
+29379,risk of hacking,606.0,573.0,160.0,120.0,negative strong,1080,11.0,,,1,1930
+29377,Patients have sleeping disorder,122.0,261.0,160.0,120.0,positive,1080,10.0,,,1,1930
+29376,Repair itself,532.0,61.0,160.0,120.0,positive weak,1080,9.0,,,1,1930
+29372,Better than sleeping drugs can help patients and other medical condition,124.0,380.0,160.0,120.0,positive strong,1080,8.0,,17:23:36,1,1930
+29371,Create a hierarchy,842.0,431.0,160.0,120.0,negative strong,1080,7.0,,,1,1930
+29368,Coerced to get impant,390.0,388.0,160.0,120.0,negative strong,1080,6.0,,,1,1930
+29364,Lower risk of accidents,777.0,70.0,160.0,120.0,positive strong,1080,4.0,,,1,1930
+29362,Sleep regulation,192.0,90.0,160.0,120.0,ambivalent,1080,2.0,,17:20:10,1,1930
+29359,Implant,540.0,246.0,160.0,120.0,neutral,1080,1.0,,17:27:05,1,1930

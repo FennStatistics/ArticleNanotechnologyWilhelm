@@ -1,0 +1,1188 @@
+CAM	participantCAM	id	text	value	comment	date	x_pos	y_pos	isDraggable	isDeletable	isTextChangeable	isActive
+2316	alcojo2_2316	35452	Better health	2	NA		649	285	NA	NA	NA	NA
+2316	alcojo2_2316	35451	Obtaining military secrets	-3	NA		228	340	NA	NA	NA	NA
+2316	alcojo2_2316	35450	Burnout	-2	NA		866	429	NA	NA	NA	NA
+2316	alcojo2_2316	35449	All ages	1	NA	21:05:12	454	117	NA	NA	NA	NA
+2316	alcojo2_2316	35448	Party harder	0	NA		779	556	NA	NA	NA	NA
+2316	alcojo2_2316	35447	Easy for people to control	1	NA		528	579	NA	NA	NA	NA
+2316	alcojo2_2316	35446	Better outcome of  missions	2	NA	21:05:58	31	266	NA	NA	NA	NA
+2316	alcojo2_2316	35445	Alters troops mentality to be more violent	-3	NA	21:05:17	281	27	NA	NA	NA	NA
+2316	alcojo2_2316	35444	Overworking troops	-2	NA	21:05:38	48	67	NA	NA	NA	NA
+2316	alcojo2_2316	35443	Stops side effects	1	NA		816	299	NA	NA	NA	NA
+2316	alcojo2_2316	35442	Controlled by an App	10	NA	20:56:01	314	502	NA	NA	NA	NA
+2316	alcojo2_2316	35441	Intrusive	-1	NA		805	40	NA	NA	NA	NA
+2316	alcojo2_2316	35440	Stops addiction	1	NA	20:50:54	626	469	NA	NA	NA	NA
+2316	alcojo2_2316	35439	Hackers	-3	NA	21:08:05	42	488	NA	NA	NA	NA
+2316	alcojo2_2316	35438	Military	0	NA		238	199	NA	NA	NA	NA
+2316	alcojo2_2316	35437	Control of sleep	-2	NA	20:45:26	590	20	NA	NA	NA	NA
+2316	alcojo2_2316	35436	Brain implant	-3	NA		669	175	NA	NA	NA	NA
+2316	alcojo2_2316	35435	technological implant	0	NA		418	288	NA	NA	NA	NA
+2171	apchro2_2171	31538	Recovery for patients	10	NA	19:59:09	1155	340	NA	NA	NA	NA
+2171	apchro2_2171	31536	Hospitals?	10	NA	19:58:55	1061	213	NA	NA	NA	NA
+2171	apchro2_2171	31531	Dont like the idea	-2	NA	19:56:44	303	409	NA	NA	NA	NA
+2171	apchro2_2171	31530	Health?	10	NA	19:55:54	1167	151	NA	NA	NA	NA
+2171	apchro2_2171	31528	Are there any actual benefits?	10	NA	19:55:41	973	52	NA	NA	NA	NA
+2171	apchro2_2171	31525	What are the side effects?	-2	NA	19:53:27	20	325	NA	NA	NA	NA
+2171	apchro2_2171	31522	Could it be hacked into? And controlled externally?	-1	NA	19:52:13	320	20	NA	NA	NA	NA
+2171	apchro2_2171	31509	What else can be monitored? Our location?!!	-2	NA	19:49:07	890	506	NA	NA	NA	NA
+2171	apchro2_2171	31501	Employers	-1	NA	19:47:28	856	195	NA	NA	NA	NA
+2171	apchro2_2171	31498	8 hours sleep a night	3	NA	19:47:00	228	195	NA	NA	NA	NA
+2171	apchro2_2171	31493	Long haul flights	2	NA	19:46:37	27	155	NA	NA	NA	NA
+2171	apchro2_2171	31491	Parents to contol babies / children	-2	NA	19:46:12	858	355	NA	NA	NA	NA
+2171	apchro2_2171	31486	Rapists	-2	NA	19:45:49	590	544	NA	NA	NA	NA
+2171	apchro2_2171	31484	Murderers	-2	NA	19:45:39	245	544	NA	NA	NA	NA
+2171	apchro2_2171	31480	It could cause an accident	-1	NA	19:45:04	700	29	NA	NA	NA	NA
+2171	apchro2_2171	31476	Mis Use	-3	NA	19:44:23	697	278	NA	NA	NA	NA
+2171	apchro2_2171	31471	What if it fails?	-3	NA	19:43:50	511	100	NA	NA	NA	NA
+2171	apchro2_2171	31469	Who monitors it	-3	NA	19:43:09	679	452	NA	NA	NA	NA
+2171	apchro2_2171	31467	Could it be used for criminal activity?	-3	NA		394	515	NA	NA	NA	NA
+2171	apchro2_2171	31464	Goes against nature	-3	NA		64	428	NA	NA	NA	NA
+2171	apchro2_2171	31463	Nap whenever I want	3	NA		56	241	NA	NA	NA	NA
+2171	apchro2_2171	31462	More productive at work	2	NA	19:47:03	153	87	NA	NA	NA	NA
+2171	apchro2_2171	31457	technological implant	0	NA	19:43:55	378	270	NA	NA	NA	NA
+2145	babrsh2_2145	31144	No more insomnia	3	NA	18:24:44	56.9826	494.285	NA	NA	NA	NA
+2145	babrsh2_2145	31131	Can be misused	-1	NA	18:10:53	462.496	815.33	NA	NA	NA	NA
+2145	babrsh2_2145	31092	May become mandatory	-3	NA	18:06:28	992.896	624.931	NA	NA	NA	NA
+2145	babrsh2_2145	31086	Better productivity	3	NA	18:06:08	791.649	506.358	NA	NA	NA	NA
+2145	babrsh2_2145	31107	Enjoy life more	1	NA	18:24:29	126.958	704.969	NA	NA	NA	NA
+2145	babrsh2_2145	31052	Psychological effects such as stress	-3	NA	18:03:35	839.146	831.778	NA	NA	NA	NA
+2145	babrsh2_2145	31038	Not available for everyone	-3	NA		933.073	356.184	NA	NA	NA	NA
+2145	babrsh2_2145	31078	Easy to use/uncomplicated	3	NA	18:05:43	755.472	53.4722	NA	NA	NA	NA
+2145	babrsh2_2145	31061	Stay awake for as long as you want	10	NA	18:04:32	549.358	549.132	NA	NA	NA	NA
+2145	babrsh2_2145	31056	Sleep when you want	3	NA	18:04:47	327.812	468.076	NA	NA	NA	NA
+2145	babrsh2_2145	31044	Might not be legal	-1	NA	18:12:39	1235.5	671.944	NA	NA	NA	NA
+2145	babrsh2_2145	31041	Expensive	-3	NA	18:03:04	1212.82	304.392	NA	NA	NA	NA
+2145	babrsh2_2145	31023	Easy to dispose/get rid of	1	NA	18:01:47	259.988	83.9881	NA	NA	NA	NA
+2145	babrsh2_2145	31019	Environmentally friendly	1	NA	18:01:27	19	95.4196	NA	NA	NA	NA
+2145	babrsh2_2145	31015	Easy to install	2	NA	18:25:03	500.281	162.931	NA	NA	NA	NA
+2145	babrsh2_2145	31013	No maintenance	3	NA		327.066	279.847	NA	NA	NA	NA
+2145	babrsh2_2145	31007	No charging	2	NA	18:24:56	54.9965	305.188	NA	NA	NA	NA
+2145	babrsh2_2145	31001	Data misuse/theft	-3	NA	18:00:17	1087.6	63.9549	NA	NA	NA	NA
+2145	babrsh2_2145	30997	Hacking	-3	NA		910.281	189.378	NA	NA	NA	NA
+2145	babrsh2_2145	30979	technological implant	0	NA		632.972	346.948	NA	NA	NA	NA
+2216	babuim2_2216	32176	may support emotional health	1	NA	13:01:57	565.433	30.2107	NA	NA	NA	NA
+2216	babuim2_2216	32175	may cause an increase in medicine	-2	NA		19	19	NA	NA	NA	NA
+2216	babuim2_2216	32174	affecting emotional and mental wellbeing	-3	NA		292.322	136.877	NA	NA	NA	NA
+2216	babuim2_2216	32173	affect on economy	0	NA		600.211	381.322	NA	NA	NA	NA
+2216	babuim2_2216	32172	could bring new research to light	1	NA		751.111	255.556	NA	NA	NA	NA
+2216	babuim2_2216	32171	regulating sleep	1	NA		695.556	93.3333	NA	NA	NA	NA
+2216	babuim2_2216	32170	not enough info available at the moment	-2	NA		28.0995	354.433	NA	NA	NA	NA
+2216	babuim2_2216	32169	damaging	-3	NA		36.3218	159.211	NA	NA	NA	NA
+2216	babuim2_2216	32168	trust issues	-2	NA	12:56:05	166.667	47.7778	NA	NA	NA	NA
+2216	babuim2_2216	32167	privacy	-2	NA		372.322	424.766	NA	NA	NA	NA
+2216	babuim2_2216	32166	ethical issues	-3	NA	12:54:32	226.655	359.988	NA	NA	NA	NA
+2216	babuim2_2216	32165	health issue	-3	NA		344.322	16	NA	NA	NA	NA
+2216	babuim2_2216	32163	technological implant	0	NA		288.998	251.991	NA	NA	NA	NA
+2141	bechan2_2141	30977	Impact on youth	10	Children are already seen to have much impact from games and computers in how their brains work and they perceive the world - what would access to an implant do?	18:13:47	267	377	NA	NA	NA	NA
+2141	bechan2_2141	30962	Manipulation of nature	10	The implant goes against what humans are evolved to do - but through building societies we have already pushed into that region without implants	18:13:09	557	162	NA	NA	NA	NA
+2141	bechan2_2141	31101	Being attacked/robbed while in a sleep cycle	-3	If people with implants have a set sleep cycle on, will they be able to wake up half way through, or will the implant not let them? This could lead to opportunistic theft or violent crime	18:12:30	739	345	NA	NA	NA	NA
+2141	bechan2_2141	31139	Schemes may be possible to make the implant widely available if safe	1	NA		76	617	NA	NA	NA	NA
+2141	bechan2_2141	31133	Any faults now may be perfected over time	3	As with any technology, it could improve overtime and become irreplaceable or receive updates	18:14:51	524	609	NA	NA	NA	NA
+2141	bechan2_2141	31121	Unknown errors may damage brain - you can never be sure	-1	You can never rule out all issues, and with the brain especially this is incredibly high risk	18:14:07	29	339	NA	NA	NA	NA
+2141	bechan2_2141	31116	May be used or misused to party/study/etc.	10	NA		114	457	NA	NA	NA	NA
+2141	bechan2_2141	31112	May be used as status amongst youth	-1	NA	18:08:54	270	536	NA	NA	NA	NA
+2141	bechan2_2141	31106	May bring further improvements going forward - improved implants etc.	1	NA		622	508	NA	NA	NA	NA
+2141	bechan2_2141	31097	Changing the nature of humans	10	NA		752	107	NA	NA	NA	NA
+2141	bechan2_2141	31094	Society may become reliant on implants	10	Medicine may be forever changed - patients opting not to, or unable to, have the implant may be disadvantaged	18:15:27	20	160	NA	NA	NA	NA
+2141	bechan2_2141	31090	Could save lives/improve wellbeing	2	NA	18:06:18	53	72	NA	NA	NA	NA
+2141	bechan2_2141	31018	Danger to civilians using the device	-2	NA		480	22	NA	NA	NA	NA
+2141	bechan2_2141	31009	May be able to track hacking teams through reverse	3	Use signals/tracking in reverse etc.	18:14:19	264	20	NA	NA	NA	NA
+2141	bechan2_2141	30963	Access to hackers	-1	NA	17:59:46	381	138	NA	NA	NA	NA
+2141	bechan2_2141	30986	Technological advancements	2	NA	17:59:54	479	377	NA	NA	NA	NA
+2141	bechan2_2141	30983	Lack of control	-1	NA	18:00:11	155	269	NA	NA	NA	NA
+2141	bechan2_2141	30980	Vulnerability during sleep	-2	NA	17:59:50	587	273	NA	NA	NA	NA
+2141	bechan2_2141	30966	Improvement in medicine	3	NA	18:00:16	189	160	NA	NA	NA	NA
+2141	bechan2_2141	30959	technological implant	0	 		378	272	NA	NA	NA	NA
+2182	bopofr2_2182	31714	if it becomes more in demand, some people might be forced to use it for their jobs or school	-3	NA		39	626	NA	NA	NA	NA
+2182	bopofr2_2182	31710	voluntary	3	NA		278	517	NA	NA	NA	NA
+2182	bopofr2_2182	31708	could become a thing of status amongst rich people	10	NA		206	116	NA	NA	NA	NA
+2182	bopofr2_2182	31706	could become more expensive when it gets more in demand	10	NA	22:04:28	408	20	NA	NA	NA	NA
+2182	bopofr2_2182	31705	affordable	0	NA		415	145	NA	NA	NA	NA
+2182	bopofr2_2182	31704	can lead to long term effects	-3	NA		90	495	NA	NA	NA	NA
+2182	bopofr2_2182	31702	can help people with sleep disorders	3	NA		729	559	NA	NA	NA	NA
+2182	bopofr2_2182	31700	can lead to abuse of implant and individual	-3	NA		409	621	NA	NA	NA	NA
+2182	bopofr2_2182	31698	can be hacked	-3	NA	21:57:51	668	658	NA	NA	NA	NA
+2182	bopofr2_2182	31697	controlled through app	0	NA		529	495	NA	NA	NA	NA
+2182	bopofr2_2182	31696	increases productivity	3	NA		724	418	NA	NA	NA	NA
+2182	bopofr2_2182	31695	not a lot of research has been done	-3	NA		642	291	NA	NA	NA	NA
+2182	bopofr2_2182	31694	uses body's energy to work	10	NA	21:59:01	223	360	NA	NA	NA	NA
+2182	bopofr2_2182	31691	saves money on buying things to charge it	3	NA		38	372	NA	NA	NA	NA
+2182	bopofr2_2182	31690	energy autonomous	3	NA		75	207	NA	NA	NA	NA
+2182	bopofr2_2182	31689	saves money	3	NA		146	20	NA	NA	NA	NA
+2182	bopofr2_2182	31688	self-repairing	3	NA		37	97	NA	NA	NA	NA
+2182	bopofr2_2182	31687	can cause long term effects on body	-3	NA		756	20	NA	NA	NA	NA
+2182	bopofr2_2182	31685	good for the planet	3	NA		762	197	NA	NA	NA	NA
+2182	bopofr2_2182	31683	biodegradable	10	NA	21:51:52	594	106	NA	NA	NA	NA
+2182	bopofr2_2182	31676	technological implant	0	NA		430	321	NA	NA	NA	NA
+2174	brabgo2_2174	31603	concerns re hacking	-3	NA	20:52:15	1943.33	843.333	NA	NA	NA	NA
+2174	brabgo2_2174	31600	we don't know the policies for privacy	-3	NA	20:51:57	1756.33	603.333	NA	NA	NA	NA
+2174	brabgo2_2174	31596	increased productivity/efficiecy	10	NA	20:43:36	1421.67	161.333	NA	NA	NA	NA
+2174	brabgo2_2174	31595	exploitable by employers	-3	NA	20:43:21	1584.97	480.286	NA	NA	NA	NA
+2174	brabgo2_2174	31593	coercion to get the impant	-3	even if the implant isn;t officially compulsory, the applications and increased productivity will almost certainly lead to huge social and economic pressure to get one	20:43:00	1529.67	756.661	NA	NA	NA	NA
+2174	brabgo2_2174	31592	Social inequality	-3	NA	20:41:46	1262	831.667	NA	NA	NA	NA
+2174	brabgo2_2174	31589	access	0	NA		931.75	738.75	NA	NA	NA	NA
+2174	brabgo2_2174	31582	cost	10	NA		606.984	586.5	NA	NA	NA	NA
+2174	brabgo2_2174	31584	People may have to pay to access	-3	NA	20:37:59	325.729	714.005	NA	NA	NA	NA
+2174	brabgo2_2174	31578	could be used to treat sleep disorders	3	NA	20:35:31	297.5	17	NA	NA	NA	NA
+2174	brabgo2_2174	31577	self repairing	3	NA		40.25	99	NA	NA	NA	NA
+2174	brabgo2_2174	31576	biodegradable	3	NA		22	379.98	NA	NA	NA	NA
+2174	brabgo2_2174	31575	sustainable to create	3	NA		80.4805	212.5	NA	NA	NA	NA
+2174	brabgo2_2174	31572	controls sleep	10	NA		519	104	NA	NA	NA	NA
+2174	brabgo2_2174	31571	affect soldier's behaviour	-3	NA	20:32:47	1089	20	NA	NA	NA	NA
+2174	brabgo2_2174	31570	Military applications	-2	NA		909.995	28.9792	NA	NA	NA	NA
+2174	brabgo2_2174	31569	application	0	NA		980	171.979	NA	NA	NA	NA
+2174	brabgo2_2174	31568	privacy	0	NA		1030.99	393.984	NA	NA	NA	NA
+2174	brabgo2_2174	31567	Sustainability	0	NA		189.984	404	NA	NA	NA	NA
+2174	brabgo2_2174	31566	technological implant	0	 		618	354.98	NA	NA	NA	NA
+2129	brhuan2_2129	30779	Police	10	the police could use this to stay up longer and be more alert, but they might abuse it if it has side efffects and makes them more aggressive 	18:01:59	616.5	20	NA	NA	NA	NA
+2129	brhuan2_2129	30971	hackers?	-1	could hackers remotely shut people down by making them fall asleep. it is controlled by an APP so it could be unsecure 	17:59:07	285.25	508.25	NA	NA	NA	NA
+2129	brhuan2_2129	30955	Waste of money?	-1	could there have been a better use for the money. how much was spent researching this? people are going hungry	17:57:59	791	389.5	NA	NA	NA	NA
+2129	brhuan2_2129	30925	surveillance	-2	NA	17:56:19	143.75	427	NA	NA	NA	NA
+2129	brhuan2_2129	30904	unnatural	10	are we messing with nature too much	17:54:43	161	296.5	NA	NA	NA	NA
+2129	brhuan2_2129	30902	dystopia	-1	NA		376.75	350	NA	NA	NA	NA
+2129	brhuan2_2129	30846	athletes?	10	would it be unfair, or classed as doping	17:51:59	265.5	27	NA	NA	NA	NA
+2129	brhuan2_2129	30838	unavailable	-1	NA	17:56:40	1177.75	384	NA	NA	NA	NA
+2129	brhuan2_2129	30834	elitism?	-1	NA		1034.75	507.75	NA	NA	NA	NA
+2129	brhuan2_2129	30821	unfair?	-1	NA	17:49:44	979.75	383	NA	NA	NA	NA
+2129	brhuan2_2129	30813	downsides?	-1	NA		770	244	NA	NA	NA	NA
+2129	brhuan2_2129	30718	painful	-1	NA	17:44:42	1003	157	NA	NA	NA	NA
+2129	brhuan2_2129	30805	insomniacs	2	insomniacs and people with other sleep problems would really benefit from this	17:51:23	87.75	68	NA	NA	NA	NA
+2129	brhuan2_2129	30774	elderly	1	NA		438.25	21	NA	NA	NA	NA
+2129	brhuan2_2129	30760	soldiers	-1	there could be side effects that make them more aggresive or trigger happy.	17:53:09	793.5	24	NA	NA	NA	NA
+2129	brhuan2_2129	30753	who will use it?	10	NA		585.25	150.25	NA	NA	NA	NA
+2129	brhuan2_2129	30749	healthier	2	NA	17:46:53	681	569	NA	NA	NA	NA
+2129	brhuan2_2129	30737	helps sleep	3	NA		478.117	550.783	NA	NA	NA	NA
+2129	brhuan2_2129	30733	useful	2	NA		589.883	433.883	NA	NA	NA	NA
+2129	brhuan2_2129	30721	side effects?	-1	NA		1022.22	261.783	NA	NA	NA	NA
+2129	brhuan2_2129	30719	surgery	-2	NA	17:44:21	973	44	NA	NA	NA	NA
+2129	brhuan2_2129	30699	bio degradable	1	NA		201	163	NA	NA	NA	NA
+2129	brhuan2_2129	30691	eco friendly	1	NA	17:42:54	383	225	NA	NA	NA	NA
+2129	brhuan2_2129	30680	technological implant	-2	NA	17:42:31	607	316	NA	NA	NA	NA
+2180	bumado2_2180	31686	Psychological impact	-2	Just because the implant makes it so you don't feel tired, doesn't mean it is healthy to go days without sleeping. This could encourage extremely long working days or students who study all night and end up suffering mentally because of it. 	21:53:09	83	519	NA	NA	NA	NA
+2180	bumado2_2180	31662	Is metabolising the implant dangerous?	10	This might be safe to do, but the implant is near the brain which mike make this dangerous	21:44:31	237	530	NA	NA	NA	NA
+2180	bumado2_2180	31681	Data privacy	-2	Would companies/governments be able to monitor brain activity and potentially use this e.g., for advertising health care products	21:51:48	625	211	NA	NA	NA	NA
+2180	bumado2_2180	31680	Powered by body's resources	10	Depending on how much of the brains blood supply this uses, it could be concerning that resources are being diverted away from essential body processes towards the implant	21:51:04	24	261	NA	NA	NA	NA
+2180	bumado2_2180	31674	Problems with affordability	-2	NA		185	175	NA	NA	NA	NA
+2180	bumado2_2180	31672	Device is near the brain?	-2	It sounds very risky to have the implant installed near the brain, could it potentially cause damage or infections which could risk lives?	21:48:02	20	403	NA	NA	NA	NA
+2180	bumado2_2180	31670	Should children be able to use it?	10	This could be positive because it would help children get well rested and concentrate more at school. However, should parents be able to control the app and force children to sleep and wake at certain times? This seems abusive. 	21:46:42	616	413	NA	NA	NA	NA
+2180	bumado2_2180	31668	dependency	-1	People might end up being dependent on using the implant and they'll struggle to sleep even more without it	21:45:49	392	462	NA	NA	NA	NA
+2180	bumado2_2180	31663	Health concerns	-3	NA	21:43:55	190	347	NA	NA	NA	NA
+2180	bumado2_2180	31660	Don't waste time trying to get to sleep	2	NA	21:42:44	581	83	NA	NA	NA	NA
+2180	bumado2_2180	31658	Helping insomniacs	3	This is a serious condition and would be treated very effectively with an implant like this, improving many people's lives. Maybe the implant should only be allowed to be used as a medical device for insomniacs?	21:54:05	332	80	NA	NA	NA	NA
+2180	bumado2_2180	31652	Hacking	-2	People might want to hack the devices to steal information (e.g., about health) or to force people to sleep/wake when they don't want to). If you knew everyone was asleep and wouldn't wake up until 9am then you could rob them easier etc	21:41:20	630	314	NA	NA	NA	NA
+2180	bumado2_2180	31650	technological implant	0	 		378	272	NA	NA	NA	NA
+2172	cabero2_2172	31519	Long term side effects unknown	-1	NA	19:51:37	109	380	NA	NA	NA	NA
+2172	cabero2_2172	31518	Requiremt for some jobs	-1	NA	19:50:40	415	576	NA	NA	NA	NA
+2172	cabero2_2172	31517	Use without consent	-1	NA	19:50:17	644	498	NA	NA	NA	NA
+2172	cabero2_2172	31514	Ethical issues	0	NA	19:51:02	428	441	NA	NA	NA	NA
+2172	cabero2_2172	31512	Surveillance by government	-1	NA		642	337	NA	NA	NA	NA
+2172	cabero2_2172	31496	More energy	2	NA	19:46:53	130	40	NA	NA	NA	NA
+2172	cabero2_2172	31495	increased productivity	3	NA	19:46:56	127	124	NA	NA	NA	NA
+2172	cabero2_2172	31492	Personal use	0	NA		334	88	NA	NA	NA	NA
+2172	cabero2_2172	31489	insomnia	1	NA	19:46:18	379	20	NA	NA	NA	NA
+2172	cabero2_2172	31485	Medical uses would be useful	1	NA	19:45:55	592	74	NA	NA	NA	NA
+2172	cabero2_2172	31482	technological implant	0	NA		378	272	NA	NA	NA	NA
+2127	chbost2_2127	30820	Use by children	10	NA		27.401	400.99	NA	NA	NA	NA
+2127	chbost2_2127	30876	What about left over pieces?	-3	NA		796.333	608.333	NA	NA	NA	NA
+2127	chbost2_2127	30871	Biodegradable	10	NA		723.333	498.667	NA	NA	NA	NA
+2127	chbost2_2127	30866	How expensive will this be?	10	NA		373	162.995	NA	NA	NA	NA
+2127	chbost2_2127	30864	Who controls the dat collected?	-3	NA		621.333	9.66666	NA	NA	NA	NA
+2127	chbost2_2127	30858	Third Party companies	-1	NA	17:51:46	453.333	7.99998	NA	NA	NA	NA
+2127	chbost2_2127	30855	Do we need to control people?	-2	NA		365	687	NA	NA	NA	NA
+2127	chbost2_2127	30845	Creation of 2 classes of people	-3	NA		7	313	NA	NA	NA	NA
+2127	chbost2_2127	30837	Who holds the data?	-3	NA		58.7143	55.2857	NA	NA	NA	NA
+2127	chbost2_2127	30831	Is it always safe?	-3	NA		191.143	131.143	NA	NA	NA	NA
+2127	chbost2_2127	30828	Should we fund this?	-3	NA		31.5714	148.286	NA	NA	NA	NA
+2127	chbost2_2127	30824	Ethics	-3	NA		103.26	233.854	NA	NA	NA	NA
+2127	chbost2_2127	30817	Offer more productivity in life	3	NA		1013.99	615.417	NA	NA	NA	NA
+2127	chbost2_2127	30812	Help encourage healthy lifestyles	3	NA		1130.27	337.24	NA	NA	NA	NA
+2127	chbost2_2127	30808	Help improve motivation for things	3	NA		1019.86	411.714	NA	NA	NA	NA
+2127	chbost2_2127	30800	Not sure if everyone should be doing this though!	10	NA		1282.55	662.422	NA	NA	NA	NA
+2127	chbost2_2127	30795	Use implant to better oneself.	1	NA		1206.14	551.571	NA	NA	NA	NA
+2127	chbost2_2127	30786	Help stabilise body functions	3	NA	17:47:57	1194.29	442.571	NA	NA	NA	NA
+2127	chbost2_2127	30780	Improve personal performance	2	NA	17:47:36	1022.95	507.552	NA	NA	NA	NA
+2127	chbost2_2127	30764	Do we want super people?	-3	NA		201.38	624.552	NA	NA	NA	NA
+2127	chbost2_2127	30758	Aimed to kill people	-3	NA		502.427	603.854	NA	NA	NA	NA
+2127	chbost2_2127	30754	Use for war	-3	NA		173.693	493.125	NA	NA	NA	NA
+2127	chbost2_2127	30750	Aid/fund terrorism	-3	NA		335.571	537.571	NA	NA	NA	NA
+2127	chbost2_2127	30745	Abuse of soldiers	-3	NA		498.26	488.411	NA	NA	NA	NA
+2127	chbost2_2127	30744	Military use	-3	NA		350.266	416.661	NA	NA	NA	NA
+2127	chbost2_2127	30739	Be used to keep people alive	3	NA		544.25	113	NA	NA	NA	NA
+2127	chbost2_2127	30731	Benefit future research	3	NA		703.984	335.495	NA	NA	NA	NA
+2127	chbost2_2127	30728	Ensure those with disorders can be treated	2	NA		811.988	253.996	NA	NA	NA	NA
+2127	chbost2_2127	30712	Improve patient's lives with cutting edge tech	3	NA		733.964	122.969	NA	NA	NA	NA
+2127	chbost2_2127	30700	medical research/use	1	NA	17:43:36	634.953	243.932	NA	NA	NA	NA
+2127	chbost2_2127	30661	technological implant	0	NA		373.958	275.932	NA	NA	NA	NA
+2159	chrost2_2159	31353	organised crime surge e.g. putting security guards to sleep	-3	NA	18:56:06	610	553	NA	NA	NA	NA
+2159	chrost2_2159	31351	hackers implications	-3	NA	18:55:09	452	446	NA	NA	NA	NA
+2159	chrost2_2159	31348	new cold war as nations rush to compete strategically	-3	NA	18:53:05	262	6	NA	NA	NA	NA
+2159	chrost2_2159	31346	less less cardiovascular disease, especially	3	NA	18:51:20	285	544	NA	NA	NA	NA
+2159	chrost2_2159	31341	stronger public health	3	NA	18:49:34	61	536	NA	NA	NA	NA
+2159	chrost2_2159	31334	increased happiness	3	NA	18:46:29	846	172	NA	NA	NA	NA
+2159	chrost2_2159	31333	less psychological impairment	3	NA	18:48:29	65	298	NA	NA	NA	NA
+2159	chrost2_2159	31330	medical benefits	3	NA	18:44:51	191	412	NA	NA	NA	NA
+2159	chrost2_2159	31327	military implications	-3	NA	18:43:37	69	79	NA	NA	NA	NA
+2159	chrost2_2159	31308	increased efficiency	3	NA	18:41:35	618	20	NA	NA	NA	NA
+2159	chrost2_2159	31304	increased productivity at work	3	NA	18:42:00	827	6	NA	NA	NA	NA
+2159	chrost2_2159	31301	schedule sleep according to lifestyle	3	NA	18:42:13	620	327	NA	NA	NA	NA
+2159	chrost2_2159	31299	better sleep	3	NA	18:42:06	629	157	NA	NA	NA	NA
+2159	chrost2_2159	31294	technological implant	0	NA		411	241	NA	NA	NA	NA
+2204	cofrni2_2204	32018	Data Privacy/Hacking	-3	Due to the implant being new, it is unlikely that they can make the security flawless. This could lead to hackers.	21:09:34	72.4306	524.879	NA	NA	NA	NA
+2204	cofrni2_2204	32017	Reduces Accidents	3	Can reduce fatigue and tiredness, so will decrease accidents such as traffic accidents.	21:04:57	803.972	419.205	NA	NA	NA	NA
+2204	cofrni2_2204	32016	Fear/Bullying	-1	NA	21:03:38	809.222	118.889	NA	NA	NA	NA
+2204	cofrni2_2204	32015	Class System	-2	The implant could create a rich/poor class system with people who do and people who don't have the implant.	21:11:52	387.656	116.767	NA	NA	NA	NA
+2204	cofrni2_2204	32014	Increased Killing	-3	Could make military soldiers more likely to cause violence or murder in the line of duty.	21:05:47	477.771	518.208	NA	NA	NA	NA
+2204	cofrni2_2204	32013	Drug Replacement	1	The implant could replace the need for certain medication, producing a cheaper and easier use of medication.	21:10:57	13	378.757	NA	NA	NA	NA
+2204	cofrni2_2204	32012	Money Making by companies	-2	The implant could create ways of big corporations making money from the implants and implementing unwanted features or preying upon people with the implant.	21:07:59	264.997	499.99	NA	NA	NA	NA
+2204	cofrni2_2204	32011	Unknown Factors	10	There are still many unknown factors, which could be good or bad, and these are not yet known.	21:05:20	684.99	505	NA	NA	NA	NA
+2204	cofrni2_2204	32010	Regulates Sleep Cycle	3	Can help people reduce fatigue and tiredness, and can help reduce accidents.	21:18:11	10	273.993	NA	NA	NA	NA
+2204	cofrni2_2204	32009	Decomposes when no longer wanted	3	When the implant is no longer needed, the implant decomposes without need for any operation to remove.	21:11:29	562.99	70.9931	NA	NA	NA	NA
+2204	cofrni2_2204	32008	Energy Efficient/No Maintenance	3	No Power needed, so runs itself. No dangerous power systems running in your head.	21:04:05	795.976	252.997	NA	NA	NA	NA
+2204	cofrni2_2204	32007	App Controllable	10	The implant is app controlled, this could be good or bad depending on who has access to control the implant.	21:12:29	210	177.99	NA	NA	NA	NA
+2204	cofrni2_2204	32006	Easily Implanted	2	Non invasive to implant in the head.	21:17:52	138	20	NA	NA	NA	NA
+2204	cofrni2_2204	32005	Small in size	3	Implant is small, so can easily be implanted and doesn't take lots of room.	20:52:48	747.976	21	NA	NA	NA	NA
+2204	cofrni2_2204	32004	technological implant	0	 The positives and negatives of a brain implant.	21:06:06	468	291.993	NA	NA	NA	NA
+2140	crjori2_2140	31075	Data privacy	-3	NA		20	367	NA	NA	NA	NA
+2140	crjori2_2140	31062	Non-invasive	3	NA		546	342	NA	NA	NA	NA
+2140	crjori2_2140	31051	Biodegradable in the body	3	non invasive	18:03:30	719	412	NA	NA	NA	NA
+2140	crjori2_2140	31035	Self-repairing	2	NA		710	300	NA	NA	NA	NA
+2140	crjori2_2140	30972	Not fully tested, no long term studies available	-3	NA		23	239	NA	NA	NA	NA
+2140	crjori2_2140	30957	Hacking risk	-3	NA		20	131	NA	NA	NA	NA
+2140	crjori2_2140	30949	Unequal society	-3	NA		20	20	NA	NA	NA	NA
+2140	crjori2_2140	30946	Unnatural	-1	NA		180	65	NA	NA	NA	NA
+2140	crjori2_2140	30943	Ethical issues	-3	NA		198	172	NA	NA	NA	NA
+2140	crjori2_2140	30936	Improved productivity	3	NA		643	124	NA	NA	NA	NA
+2140	crjori2_2140	30931	Improved sleep	3	NA		637	20	NA	NA	NA	NA
+2140	crjori2_2140	30917	Benefits for children & adults	3	NA	17:55:07	382	20	NA	NA	NA	NA
+2140	crjori2_2140	30912	Health benefits	3	NA		433	137	NA	NA	NA	NA
+2140	crjori2_2140	30891	technological implant	0	 		378	272	NA	NA	NA	NA
+2230	dewaed2_2230	32927	class dividing	-2	NA		16	291.667	NA	NA	NA	NA
+2230	dewaed2_2230	32857	side effects	-2	NA		55.3333	110.111	NA	NA	NA	NA
+2230	dewaed2_2230	32856	painful	-2	NA	22:10:04	179.444	30.8819	NA	NA	NA	NA
+2230	dewaed2_2230	32855	scary	-3	NA		321.111	98.8889	NA	NA	NA	NA
+2230	dewaed2_2230	32732	coercion	-2	NA		177.778	478.333	NA	NA	NA	NA
+2230	dewaed2_2230	32731	discrimination	-2	NA		160.111	360.444	NA	NA	NA	NA
+2230	dewaed2_2230	32730	employers	-2	NA	21:09:36	289.66	290.222	NA	NA	NA	NA
+2230	dewaed2_2230	32729	sexual criminals	-2	NA		166.889	212.993	NA	NA	NA	NA
+2230	dewaed2_2230	32728	risk of abuse	-3	NA	21:44:07	357.889	201	NA	NA	NA	NA
+2230	dewaed2_2230	32727	less fatigue	3	NA	21:07:08	556	91.9931	NA	NA	NA	NA
+2230	dewaed2_2230	32726	fewer accidents	2	NA	21:07:17	426.889	26.6667	NA	NA	NA	NA
+2230	dewaed2_2230	32725	possible accidents	-2	NA		384.333	512.222	NA	NA	NA	NA
+2230	dewaed2_2230	32724	identity theft	-2	NA		786.667	527.889	NA	NA	NA	NA
+2230	dewaed2_2230	32723	data breach	-2	NA		616.333	492.556	NA	NA	NA	NA
+2230	dewaed2_2230	32722	control of implant	-2	NA	21:01:55	387.889	396.333	NA	NA	NA	NA
+2230	dewaed2_2230	32721	hacking	-2	NA	21:00:14	568.444	389.333	NA	NA	NA	NA
+2230	dewaed2_2230	32720	privacy fears	-3	NA	21:13:00	526.222	286.333	NA	NA	NA	NA
+2230	dewaed2_2230	32719	improve sleep	3	NA		717	32	NA	NA	NA	NA
+2230	dewaed2_2230	32652	missions	2	NA		749	407	NA	NA	NA	NA
+2230	dewaed2_2230	32651	parties	2	NA		950	426	NA	NA	NA	NA
+2230	dewaed2_2230	32650	study time	2	NA	20:50:55	930	323	NA	NA	NA	NA
+2230	dewaed2_2230	32649	stay awake longer	3	NA		748	308	NA	NA	NA	NA
+2230	dewaed2_2230	32648	no side effects	2	NA	20:47:47	898	206	NA	NA	NA	NA
+2230	dewaed2_2230	32647	no medication needed	2	NA	20:59:19	908	86	NA	NA	NA	NA
+2230	dewaed2_2230	32646	helps with sleep disorders	3	NA	20:44:38	729	153	NA	NA	NA	NA
+2230	dewaed2_2230	32645	technological implant	10	NA		565	193	NA	NA	NA	NA
+2155	dheaku2_2155	31238	cost	10	NA		195	144	NA	NA	NA	NA
+2155	dheaku2_2155	31210	more sleep	3	NA		751	111	NA	NA	NA	NA
+2155	dheaku2_2155	31193	repairing itself	3	NA		113	406	NA	NA	NA	NA
+2155	dheaku2_2155	31191	promotion	3	NA	18:18:56	618	358	NA	NA	NA	NA
+2155	dheaku2_2155	31187	health	3	NA		643	216	NA	NA	NA	NA
+2155	dheaku2_2155	31185	hackers	-3	NA		426	110	NA	NA	NA	NA
+2155	dheaku2_2155	31163	technological implant	0	NA	18:24:42	378	272	NA	NA	NA	NA
+2118	dinoro2_2118	30734	Ethical?	0	NA		549	550	NA	NA	NA	NA
+2118	dinoro2_2118	30626	Self-Recharging	3	NA		393	457	NA	NA	NA	NA
+2118	dinoro2_2118	30725	Army Use	1	NA	17:44:48	671	479	NA	NA	NA	NA
+2118	dinoro2_2118	30716	Risk of being hacked?	-3	NA		635	362	NA	NA	NA	NA
+2118	dinoro2_2118	30674	Other People?	0	NA		20	461	NA	NA	NA	NA
+2118	dinoro2_2118	30645	How is it implanted?	10	NA	17:39:48	423	126	NA	NA	NA	NA
+2118	dinoro2_2118	30644	Alarm Control by App?	1	NA	17:39:52	697	186	NA	NA	NA	NA
+2118	dinoro2_2118	30643	Stops alarms from waking people up?	-1	NA	17:41:05	697	273	NA	NA	NA	NA
+2118	dinoro2_2118	30640	Energy Boost, better sleep	2	NA	17:41:02	256	532	NA	NA	NA	NA
+2118	dinoro2_2118	30637	Beneficial for Sleep Apnea etc.	2	NA		220	332	NA	NA	NA	NA
+2118	dinoro2_2118	30634	Employers	0	NA		184	457	NA	NA	NA	NA
+2118	dinoro2_2118	30632	Societial Requirement?	-1	NA		54	248	NA	NA	NA	NA
+2118	dinoro2_2118	30630	Risk of Contamination	-2	NA		25	115	NA	NA	NA	NA
+2118	dinoro2_2118	30628	Connectivity or Interference	-2	NA	17:38:53	309	21	NA	NA	NA	NA
+2118	dinoro2_2118	30627	Disposable in the Blood Stream	1	NA		85	20	NA	NA	NA	NA
+2118	dinoro2_2118	30624	Lost of Device	-3	NA	17:38:27	545	259	NA	NA	NA	NA
+2118	dinoro2_2118	30623	Controlled by App	3	NA		697	95	NA	NA	NA	NA
+2118	dinoro2_2118	30620	Self-Recharging	3	NA		603	20	NA	NA	NA	NA
+2118	dinoro2_2118	30614	technological implant	0	NA		377	273	NA	NA	NA	NA
+2392	fastst2_2392	39182	Health disadvantages	-3	NA	16:30:32	845	367	NA	NA	NA	NA
+2392	fastst2_2392	39181	could decrease productivity	-1	NA		863	544	NA	NA	NA	NA
+2392	fastst2_2392	39180	Increases leisure time	2	NA	16:29:21	636	20	NA	NA	NA	NA
+2392	fastst2_2392	39179	Benefits sleep disorders	1	NA	16:28:46	1017	124	NA	NA	NA	NA
+2392	fastst2_2392	39178	Less fatigue in workplace	1	NA		924	200	NA	NA	NA	NA
+2392	fastst2_2392	39177	Could trigger soldiers to kill	-3	NA	16:28:04	999	465	NA	NA	NA	NA
+2392	fastst2_2392	39176	Powers economically	3	NA	16:27:34	322	515	NA	NA	NA	NA
+2392	fastst2_2392	39175	Long lasting	3	NA	16:27:05	228	290	NA	NA	NA	NA
+2392	fastst2_2392	39174	Repairs itself	2	NA		251	406	NA	NA	NA	NA
+2392	fastst2_2392	39171	Health benefits	2	NA		813	45	NA	NA	NA	NA
+2392	fastst2_2392	39170	technological implant	0	NA		582	202	NA	NA	NA	NA
+2187	foblcr2_2187	31795	sustainable	10	NA	11:13:20	788	594	NA	NA	NA	NA
+2187	foblcr2_2187	31786	'preparedness to kill	-3	some are concerned that the implant could alter the mind of the soldiers and increase their 'preparedness to kill'	11:12:07	155.438	515.663	NA	NA	NA	NA
+2187	foblcr2_2187	31794	partying for days	-2	NA	11:10:35	938.75	437.25	NA	NA	NA	NA
+2187	foblcr2_2187	31793	studying	1	NA		961	275.5	NA	NA	NA	NA
+2187	foblcr2_2187	31792	young people	10	NA		713.333	337.778	NA	NA	NA	NA
+2187	foblcr2_2187	31791	sleep-wake	10	NA	11:09:00	492.434	167	NA	NA	NA	NA
+2187	foblcr2_2187	31790	powers itself	10	NA		759.222	471.333	NA	NA	NA	NA
+2187	foblcr2_2187	31789	social exclusion	-3	NA		126.222	305.778	NA	NA	NA	NA
+2187	foblcr2_2187	31788	self-destroys	10	NA		594.333	522.556	NA	NA	NA	NA
+2187	foblcr2_2187	31787	characteristics	10	NA	11:06:40	584.778	399	NA	NA	NA	NA
+2187	foblcr2_2187	31785	military	10	NA		314.444	414.444	NA	NA	NA	NA
+2187	foblcr2_2187	31784	less accidents	3	NA		758.545	208.653	NA	NA	NA	NA
+2187	foblcr2_2187	31783	sleep disorders	2	NA	11:04:59	691	122	NA	NA	NA	NA
+2187	foblcr2_2187	31782	medical benefit	3	NA	11:09:03	614.979	18.9965	NA	NA	NA	NA
+2187	foblcr2_2187	31781	unnatural	-1	NA		112	36	NA	NA	NA	NA
+2187	foblcr2_2187	31780	hacking	-1	NA		301	20	NA	NA	NA	NA
+2187	foblcr2_2187	31779	implanted in brain	-3	NA	11:04:29	228	132	NA	NA	NA	NA
+2187	foblcr2_2187	31778	technological implant	0	NA	11:07:15	378	272	NA	NA	NA	NA
+2157	gicrto2_2157	31352	Will companies use this as an excuse to increase working time	-2	NA	18:55:59	899.302	805.391	NA	NA	NA	NA
+2157	gicrto2_2157	31350	Will it be expensive?	-2	NA	18:54:32	351.301	477.317	NA	NA	NA	NA
+2157	gicrto2_2157	31344	Being able to sleep in situations that are normally difficult like while flying	2	NA	18:50:27	511.308	7.62114	NA	NA	NA	NA
+2157	gicrto2_2157	31339	Long term damage to the minds of people that will take years to manifest	-2	NA	18:49:28	790.655	433.442	NA	NA	NA	NA
+2157	gicrto2_2157	31335	Will companies enforce usage and monitor  sleep patterns.	-1	Disciplining a worker for being up to late before work or monitoring for naps of night shift workers	18:48:24	1001.67	641.667	NA	NA	NA	NA
+2157	gicrto2_2157	31329	Will governments be allowed to control devices?	-2	To send all those participating in a protest to sleep for example	18:46:28	754.988	667.993	NA	NA	NA	NA
+2157	gicrto2_2157	31325	Will there be manual ways to prevent malfunctioning software causing damage	-2	NA	18:42:43	372	571	NA	NA	NA	NA
+2157	gicrto2_2157	31320	App and data security concerns	-1	NA	18:41:13	504	444	NA	NA	NA	NA
+2157	gicrto2_2157	31316	Could be dangerous in some situations if normal wake ups are prevented	-2	For example a house fire if the implant keeps a person asleep where normally they might be alerted to danger. 	18:40:47	91	449	NA	NA	NA	NA
+2157	gicrto2_2157	31313	Simple to control	2	NA	18:39:07	624.977	318.976	NA	NA	NA	NA
+2157	gicrto2_2157	31310	Easy to disable or remove as required	2	NA	18:38:46	650	205	NA	NA	NA	NA
+2157	gicrto2_2157	31307	Could help with external noise/distractions when trying to sleep	2	NA	18:38:06	121.993	20	NA	NA	NA	NA
+2157	gicrto2_2157	31305	Allows for control over when to sleep without alarms	2	NA	18:37:16	314	42	NA	NA	NA	NA
+2157	gicrto2_2157	31302	Allows for better time management	2	NA	18:36:37	589.999	96.9751	NA	NA	NA	NA
+2157	gicrto2_2157	31300	Helps with sleep	3	NA	18:37:18	312.977	144.988	NA	NA	NA	NA
+2157	gicrto2_2157	31296	will help research into sleep disorders	2	This could benefit both users and non-users of the technology.	18:35:56	76.9883	120.994	NA	NA	NA	NA
+2157	gicrto2_2157	31284	Will help people with sleep disorders to live normally.	2	NA	18:33:04	50.9867	280.992	NA	NA	NA	NA
+2157	gicrto2_2157	31278	technological implant	0	 		375.988	284.991	NA	NA	NA	NA
+2121	grstri2_2121	30651	Could be used to exploit workers	-3	 		958.857	68.5714	NA	NA	NA	NA
+2121	grstri2_2121	30751	Could be used for profit, drives capitalism	-2	 		806	149.714	NA	NA	NA	NA
+2121	grstri2_2121	30899	Could make a lot of money for people	1	 		439.714	82.4286	NA	NA	NA	NA
+2183	guohti2_2183	31719	people would be more productive	1	NA	NA	659	411	NA	NA	NA	NA
+2183	guohti2_2183	31718	some might have religious objections	10	NA	NA	830	25	NA	NA	NA	NA
+2183	guohti2_2183	31717	may help with sleep disorders	3	NA	NA	564	265	NA	NA	NA	NA
+2183	guohti2_2183	31716	unknown long term affects	-1	NA	NA	262	275	NA	NA	NA	NA
+2183	guohti2_2183	31715	people may become dependent on implant	-1	NA	NA	203	127.986	NA	NA	NA	NA
+2183	guohti2_2183	31713	may be expensive and only available to higher class	-2	NA	NA	773	129	NA	NA	NA	NA
+2183	guohti2_2183	31711	implant	0	NA	NA	482	90	NA	NA	NA	NA
+2156	habrfa2_2156	31272	Influence decision making	-2	NA		621	501	NA	NA	NA	NA
+2156	habrfa2_2156	31269	Access to sensitive data/memories	-2	NA		1022	544	NA	NA	NA	NA
+2156	habrfa2_2156	31267	Implant to modified to harm individuals	-3	NA		797	544	NA	NA	NA	NA
+2156	habrfa2_2156	31260	More/better quality sleep	3	NA	18:27:25	545	371	NA	NA	NA	NA
+2156	habrfa2_2156	31258	Children could perform better in school	1	NA		452	542	NA	NA	NA	NA
+2156	habrfa2_2156	31251	Abuse of the implant by employers to encourage unreasonal work hours	-1	NA	18:26:10	110	519	NA	NA	NA	NA
+2156	habrfa2_2156	31235	Able to work more flexibly	1	NA		146	286	NA	NA	NA	NA
+2156	habrfa2_2156	31228	Unknown Side Effects	-2	NA		520	20	NA	NA	NA	NA
+2156	habrfa2_2156	31226	Lack of time/place to sleep for soldiers would be less of an issue	1	NA		96	20	NA	NA	NA	NA
+2156	habrfa2_2156	31218	No need for additive drug treatments	1	NA	18:21:47	943	20	NA	NA	NA	NA
+2156	habrfa2_2156	31209	Expanding medical research/treatments for other disorders	3	NA	18:20:42	1067	107	NA	NA	NA	NA
+2156	habrfa2_2156	31196	Modification of implant to perform other function	10	NA	18:19:42	1049	283	NA	NA	NA	NA
+2156	habrfa2_2156	31189	Potential for hacking	-3	NA		1059	432	NA	NA	NA	NA
+2156	habrfa2_2156	31183	Sexual Assault/Rape	-3	NA		801	224	NA	NA	NA	NA
+2156	habrfa2_2156	31179	Improved Productivity	10	NA		311	415	NA	NA	NA	NA
+2156	habrfa2_2156	31177	Improved military performance	10	NA		303	111	NA	NA	NA	NA
+2156	habrfa2_2156	31175	Treatment of Sleep Disorders	3	NA	18:17:08	728	106	NA	NA	NA	NA
+2156	habrfa2_2156	31174	Criminal Abuse	-3	NA		754	407	NA	NA	NA	NA
+2156	habrfa2_2156	31169	technological implant	0	NA		562	265	NA	NA	NA	NA
+2167	halida2_2167	31441	it could be used to control people	-3	NA	19:38:27	464	411	NA	NA	NA	NA
+2167	halida2_2167	31435	it helps those struggling to sleep / sleep problems	3	NA		360	26	NA	NA	NA	NA
+2167	halida2_2167	31431	it could be used to sleep all the time for people who are depressed rather than seeking help	-3	NA		685	363	NA	NA	NA	NA
+2167	halida2_2167	31427	it could be hacked eg by governments	-3	NA		703	92	NA	NA	NA	NA
+2167	halida2_2167	31418	it is sustainable	3	NA		161	405	NA	NA	NA	NA
+2167	halida2_2167	31417	it self-repairs	3	NA		157	124	NA	NA	NA	NA
+2167	halida2_2167	31414	Implant	0	NA		422	239	NA	NA	NA	NA
+2147	hateah2_2147	31098	Design	3	NA		879	320	NA	NA	NA	NA
+2147	hateah2_2147	31095	Biodegradable	2	NA	18:06:38	1150	474	NA	NA	NA	NA
+2147	hateah2_2147	31091	Self Fixing	2	NA	18:06:23	1145	367	NA	NA	NA	NA
+2147	hateah2_2147	31087	Regulated Sleep	2	NA	18:06:04	1119	177	NA	NA	NA	NA
+2147	hateah2_2147	31083	Productivity	2	NA	18:05:42	1109	20	NA	NA	NA	NA
+2147	hateah2_2147	31082	Health Benefits	3	NA	18:05:44	887	116	NA	NA	NA	NA
+2147	hateah2_2147	31076	Availability	10	NA		736	458	NA	NA	NA	NA
+2147	hateah2_2147	31071	Life Span	10	NA		521	457	NA	NA	NA	NA
+2147	hateah2_2147	31065	Status	-2	NA	18:04:19	29	289	NA	NA	NA	NA
+2147	hateah2_2147	31057	Advancements	2	NA		309	544	NA	NA	NA	NA
+2147	hateah2_2147	31054	Limited Evidence	-2	NA		20	544	NA	NA	NA	NA
+2147	hateah2_2147	31045	Research	0	NA		220	421	NA	NA	NA	NA
+2147	hateah2_2147	31042	Ethical Issues	-3	NA	18:02:46	382	144	NA	NA	NA	NA
+2147	hateah2_2147	31033	Technology Abuse	-2	NA		156	146	NA	NA	NA	NA
+2147	hateah2_2147	31026	Data Privacy	-2	NA		255	23	NA	NA	NA	NA
+2147	hateah2_2147	31022	Human Rights	-3	NA		27	20	NA	NA	NA	NA
+2147	hateah2_2147	30990	technological implant	0	NA		585	280	NA	NA	NA	NA
+2169	haweph2_2169	31545	System could be hacked as used for bad reasons	-2	NA	NA	414	351	NA	NA	NA	NA
+2169	haweph2_2169	31543	If developed by government, could use a lot of money	-1	NA	NA	529	446	NA	NA	NA	NA
+2169	haweph2_2169	31533	More productive workforce	1	NA	NA	456	117	NA	NA	NA	NA
+2169	haweph2_2169	31527	Long-term effects not known	-1	NA	NA	272	575	NA	NA	NA	NA
+2169	haweph2_2169	31526	Not natural	-1	NA	NA	68	572	NA	NA	NA	NA
+2169	haweph2_2169	31521	Requires implant into brain	-1	NA	NA	289	450	NA	NA	NA	NA
+2169	haweph2_2169	31520	Health problems assiciated with sleep disorders reduced	3	NA	NA	704	225	NA	NA	NA	NA
+2169	haweph2_2169	31515	Jobs created to produce product	1	NA	NA	576	27	NA	NA	NA	NA
+2169	haweph2_2169	31510	Sales could boost economy	1	NA	NA	776	23	NA	NA	NA	NA
+2169	haweph2_2169	31504	could cause division in society	-2	NA	NA	724	330	NA	NA	NA	NA
+2169	haweph2_2169	31499	Soldiers may become too eager to kill	-3	NA	NA	720	552	NA	NA	NA	NA
+2169	haweph2_2169	31490	Employees can be taken advantage of	-2	NA	NA	519	546	NA	NA	NA	NA
+2169	haweph2_2169	31461	Helps people in certain work situations	3	NA	NA	90	225	NA	NA	NA	NA
+2169	haweph2_2169	31479	Keeps people awake too long	-2	NA	NA	74	349	NA	NA	NA	NA
+2169	haweph2_2169	31472	Helps people sleep in noisy and bright environments	3	NA	NA	306	27	NA	NA	NA	NA
+2169	haweph2_2169	31466	Regulates healthy sleep patterns	3	NA	NA	94	20	NA	NA	NA	NA
+2169	haweph2_2169	31447	Bad for society	-3	NA	NA	729	435	NA	NA	NA	NA
+2169	haweph2_2169	31438	Good for society	0	NA	NA	703	124	NA	NA	NA	NA
+2169	haweph2_2169	31436	Harms People	-3	NA	NA	81	468	NA	NA	NA	NA
+2169	haweph2_2169	31434	Helps people	1	NA	NA	96	118	NA	NA	NA	NA
+2169	haweph2_2169	31423	technological implant	0	NA	NA	412	239	NA	NA	NA	NA
+2114	kabosa2_2114	30662	Helps econimists	2	NA		798	232	NA	NA	NA	NA
+2114	kabosa2_2114	30656	Helps military	10	NA	17:41:07	474	20	NA	NA	NA	NA
+2114	kabosa2_2114	30646	Less social skills	-2	NA		213	468	NA	NA	NA	NA
+2114	kabosa2_2114	30636	More closed off	-2	NA		186	126	NA	NA	NA	NA
+2114	kabosa2_2114	30615	Easy to repair	2	NA		710	67	NA	NA	NA	NA
+2114	kabosa2_2114	30610	More irritable	-1	NA		253	295	NA	NA	NA	NA
+2114	kabosa2_2114	30605	Less sleep - more fatigue after	-2	NA		509	340	NA	NA	NA	NA
+2114	kabosa2_2114	30602	Can go to more parties/study more	1	NA		676	595	NA	NA	NA	NA
+2114	kabosa2_2114	30601	Can do tasks with less sleep	2	NA		746	341	NA	NA	NA	NA
+2114	kabosa2_2114	30600	Technological Implant	0	NA	17:40:47	432	147	NA	NA	NA	NA
+2144	knbane2_2144	31136	Social pressure	-2	Could this app lead people to feel under pressure to use it? Could it maybe even become something of a status symbol?	18:12:02	489	480	NA	NA	NA	NA
+2144	knbane2_2144	31991	Technological Implant	0	NA		168	20	NA	NA	NA	NA
+2144	knbane2_2144	31223	Improved health service?	2	With sleep being regulated this could lead to less accidents and injuries due to tiredness and therefore be less of a burden on a nation's healthcare system allowing Doctors and nurses to focus on more chronic conditions patients may have.	18:23:49	369	45	NA	NA	NA	NA
+2144	knbane2_2144	31200	Economic opportunities	-2	Would employers prefer people with this app? Would it enable people to work harder for longer? If so, where does this leave those without it?	18:20:45	748	460	NA	NA	NA	NA
+2144	knbane2_2144	31047	Improved mental health	2	Just as improved sleep may improve mental health i wonder if this app could could anxiety about not having it and how people may be perceived and therefore actually contribute to poorer mental health too?	18:14:12	140	289	NA	NA	NA	NA
+2144	knbane2_2144	31123	Side effects?	-2	Is it possible there could be unforeseen side effects to using this app in the longer term or for extended periods of time?	18:10:22	709	250	NA	NA	NA	NA
+2144	knbane2_2144	31068	Can it be relied upon?	10	Who is responsible for trialing this before it gets used? Is it efficient? Are there any potential long term side effects of using this app?	18:06:18	606	58	NA	NA	NA	NA
+2144	knbane2_2144	31014	Sleep Aid	2	This could be massively important for people who struggle to get enough sleep and could have positive mental health benefits.	18:02:33	132	114	NA	NA	NA	NA
+2144	knbane2_2144	30998	Using an app as a way of controlling sleep	0	NA		404	209	NA	NA	NA	NA
+2146	lamigr2_2146	31204	natural	0	could this potentially be unhealthy for us	18:21:17	38	195	NA	NA	NA	NA
+2146	lamigr2_2146	31156	less addiction	2	to sleeping medication	18:16:41	38	386	NA	NA	NA	NA
+2146	lamigr2_2146	31128	Sleep disorders	1	NA		140	294	NA	NA	NA	NA
+2146	lamigr2_2146	31111	Factories used	0	NA		819	268	NA	NA	NA	NA
+2146	lamigr2_2146	31104	Jobs created	0	NA		610	319	NA	NA	NA	NA
+2146	lamigr2_2146	31096	hackers	-3	NA		218	544	NA	NA	NA	NA
+2146	lamigr2_2146	31079	Malicious behaviour	-3	How can we be sure that our data is safe?	18:06:42	407	567	NA	NA	NA	NA
+2146	lamigr2_2146	31072	Safety	-1	NA		570	483	NA	NA	NA	NA
+2146	lamigr2_2146	31049	Sustainable	1	NA	18:03:34	646	138	NA	NA	NA	NA
+2146	lamigr2_2146	31039	wealth inequality	-3	NA	18:02:44	35	20	NA	NA	NA	NA
+2146	lamigr2_2146	31031	Cost	-3	NA		217	63	NA	NA	NA	NA
+2146	lamigr2_2146	30988	technological implant	0	 		378	272	NA	NA	NA	NA
+2160	lesole2_2160	31326	No energy to run	3	NA		63	379	NA	NA	NA	NA
+2160	lesole2_2160	31324	Ease of removal	3	NA		619	472	NA	NA	NA	NA
+2160	lesole2_2160	31323	Ease of use	3	NA		318	472	NA	NA	NA	NA
+2160	lesole2_2160	31322	Stronger military	3	NA		264	228	NA	NA	NA	NA
+2160	lesole2_2160	31321	Simplifying life	3	NA		417	33	NA	NA	NA	NA
+2160	lesole2_2160	31319	Loss of humanity	-3	NA		930	522	NA	NA	NA	NA
+2160	lesole2_2160	31318	High reliance on tech	-1	NA		1085	400	NA	NA	NA	NA
+2160	lesole2_2160	31317	Eagerness to kill in military use	-3	NA	18:39:57	796	24	NA	NA	NA	NA
+2160	lesole2_2160	31315	Danger of hacking	-3	NA		984	251	NA	NA	NA	NA
+2160	lesole2_2160	31314	Danger of malfuction	-3	NA	18:40:25	1063	88	NA	NA	NA	NA
+2160	lesole2_2160	31312	Technological Implant	0	NA		543	263	NA	NA	NA	NA
+2188	lileal2_2188	31815	long term health effects	-3	NA	12:34:21	334	608	NA	NA	NA	NA
+2188	lileal2_2188	31814	people feel lack of agency	10	NA	12:34:35	580	552	NA	NA	NA	NA
+2188	lileal2_2188	31813	playing god	10	NA	12:34:28	490	623	NA	NA	NA	NA
+2188	lileal2_2188	31812	used to negative effects	-3	NA	12:34:19	20	538.991	NA	NA	NA	NA
+2188	lileal2_2188	31811	used to improve cultural or political means	3	NA	12:34:14	162	448	NA	NA	NA	NA
+2188	lileal2_2188	31810	may help other conditions	3	NA	12:34:12	117	198	NA	NA	NA	NA
+2188	lileal2_2188	31809	better understand sleep disorders	3	NA	12:34:09	347.991	20	NA	NA	NA	NA
+2188	lileal2_2188	31808	helps those with sleep disorders	3	NA	12:34:49	686	21	NA	NA	NA	NA
+2188	lileal2_2188	31807	better productivity	3	NA	12:34:41	938	353	NA	NA	NA	NA
+2188	lileal2_2188	31806	used for bad purposes such as in the army	-3	NA	12:34:46	881.995	85.9954	NA	NA	NA	NA
+2188	lileal2_2188	31805	better performance	3	NA	12:34:43	997	236	NA	NA	NA	NA
+2188	lileal2_2188	31804	safe	3	NA	12:34:39	973	450	NA	NA	NA	NA
+2188	lileal2_2188	31803	reusable	3	NA	12:34:37	858	589	NA	NA	NA	NA
+2188	lileal2_2188	31802	improve sleep/waking patters	3	NA	12:23:22	502.991	70.9816	NA	NA	NA	NA
+2188	lileal2_2188	31801	scientific progress	3	NA	12:28:19	196.986	89	NA	NA	NA	NA
+2188	lileal2_2188	31800	poltical use	10	NA	12:27:59	145	311	NA	NA	NA	NA
+2188	lileal2_2188	31799	amoral,lack of control	-3	NA	12:24:06	382.973	498.982	NA	NA	NA	NA
+2188	lileal2_2188	31798	sustainable	3	NA	12:23:43	721.991	431.995	NA	NA	NA	NA
+2188	lileal2_2188	31797	improve cognitive ability	3	NA	12:30:23	797	221.995	NA	NA	NA	NA
+2188	lileal2_2188	31796	Technological Implant	0	NA	12:25:12	420	205	NA	NA	NA	NA
+2115	maaval2_2115	30720	auto-destroy	2	NA	17:44:29	31	117	NA	NA	NA	NA
+2115	maaval2_2115	30715	no maintenance	3	NA	17:44:11	126	25	NA	NA	NA	NA
+2115	maaval2_2115	30703	repairs itself	2	NA	17:43:39	279	40	NA	NA	NA	NA
+2115	maaval2_2115	30693	easily implanted	2	NA	17:43:25	212	134	NA	NA	NA	NA
+2115	maaval2_2115	30681	more stamina	2	NA	17:42:19	20	511	NA	NA	NA	NA
+2115	maaval2_2115	30667	sleep disorders	3	NA	17:41:25	902	550	NA	NA	NA	NA
+2115	maaval2_2115	30659	better concentration	3	NA	17:40:41	192	586	NA	NA	NA	NA
+2115	maaval2_2115	30655	less accidents	3	NA		430	561	NA	NA	NA	NA
+2115	maaval2_2115	30650	productivity improvement	3	NA		186	411	NA	NA	NA	NA
+2115	maaval2_2115	30633	drug abuse	2	NA	17:39:19	1008	427	NA	NA	NA	NA
+2115	maaval2_2115	30629	better sleep	3	NA		949	298	NA	NA	NA	NA
+2115	maaval2_2115	30625	health	3	NA	17:38:35	729	389	NA	NA	NA	NA
+2115	maaval2_2115	30622	privacy	-3	NA		933	149	NA	NA	NA	NA
+2115	maaval2_2115	30612	invasive	-3	NA		768	71	NA	NA	NA	NA
+2115	maaval2_2115	30609	abuse	-3	NA		549	43	NA	NA	NA	NA
+2115	maaval2_2115	30604	technological implant	10	NA	17:43:18	380	274	NA	NA	NA	NA
+2139	makgda2_2139	30908	Unforseen danger	-3	Everyone is different so different people may face different issues in regards	18:07:28	216	238	NA	NA	NA	NA
+2139	makgda2_2139	30973	The future	3	NA	18:00:01	762	20	NA	NA	NA	NA
+2139	makgda2_2139	30935	Process	0	NA	17:56:57	673	234	NA	NA	NA	NA
+2139	makgda2_2139	30933	Tradition	10	A lot of traditions may be in conflict	18:06:31	321	345	NA	NA	NA	NA
+2139	makgda2_2139	30926	Accessibility	-1	NA	17:56:22	762	387	NA	NA	NA	NA
+2139	makgda2_2139	30921	Willingness	10	NA	17:56:05	436	55	NA	NA	NA	NA
+2139	makgda2_2139	30915	Solution	3	it is the solution because a lot of people are indeed suffering from not being able to sleep. be it because of partying or maybe facing anxiety issues	18:06:15	624	115	NA	NA	NA	NA
+2139	makgda2_2139	30909	Costs	-3	NA	17:57:01	502	343	NA	NA	NA	NA
+2139	makgda2_2139	30906	Complications	-3	NA	17:57:17	52	364	NA	NA	NA	NA
+2139	makgda2_2139	30898	Risky	-3	NA	17:56:16	271	124	NA	NA	NA	NA
+2139	makgda2_2139	30873	technological implant	0	 		449	207	NA	NA	NA	NA
+2154	maorpa2_2154	31303	Better drivers on the road	2	NA	18:37:20	875.667	285.667	NA	NA	NA	NA
+2154	maorpa2_2154	31291	Help the elderly	1	NA	18:34:42	931.833	105.217	NA	NA	NA	NA
+2154	maorpa2_2154	31285	Easy to use	2	NA	18:33:08	859.5	185	NA	NA	NA	NA
+2154	maorpa2_2154	31283	FDA approval	10	NA	18:32:27	489.55	519.55	NA	NA	NA	NA
+2154	maorpa2_2154	31280	Would work quickly	1	NA		404.183	1	NA	NA	NA	NA
+2154	maorpa2_2154	31276	Not enough research	-2	NA	18:30:59	225.267	295.45	NA	NA	NA	NA
+2154	maorpa2_2154	31275	Inexperienced doctors	-2	NA		64.0833	536	NA	NA	NA	NA
+2154	maorpa2_2154	31271	Medical advances	2	NA		240.5	20	NA	NA	NA	NA
+2154	maorpa2_2154	31266	Wouldn't need medication	2	NA	18:28:16	831.5	20	NA	NA	NA	NA
+2154	maorpa2_2154	31265	Better sleep= nicer people	2	NA	18:28:19	758.5	114	NA	NA	NA	NA
+2154	maorpa2_2154	31262	Dr's implant wrong chip	-2	NA	18:27:49	285	522	NA	NA	NA	NA
+2154	maorpa2_2154	31257	Easily tracked	-2	NA	18:27:02	648.5	330	NA	NA	NA	NA
+2154	maorpa2_2154	31246	Requires some maintenace	-2	NA	18:33:50	864.5	505	NA	NA	NA	NA
+2154	maorpa2_2154	31241	Invasive surgery to get?	-2	NA		54	356	NA	NA	NA	NA
+2154	maorpa2_2154	31227	only availble to the rich	-2	NA	18:22:52	683.5	432	NA	NA	NA	NA
+2154	maorpa2_2154	31225	You just don't know everything that might happen- way too uncertain	-2	NA	18:25:44	54	79	NA	NA	NA	NA
+2154	maorpa2_2154	31217	Possible hacking	-1	NA	18:22:25	674.5	230	NA	NA	NA	NA
+2154	maorpa2_2154	31215	Help patients with sleep disorders	2	NA		499	86	NA	NA	NA	NA
+2154	maorpa2_2154	31212	Low maintenance	2	NA	18:33:19	638	29	NA	NA	NA	NA
+2154	maorpa2_2154	31208	Side effects from trials	-2	NA	18:20:34	54	227	NA	NA	NA	NA
+2154	maorpa2_2154	31203	Expensive to research	-1	NA	18:20:17	287	398	NA	NA	NA	NA
+2154	maorpa2_2154	31201	Government control	-1	NA		860.5	403	NA	NA	NA	NA
+2154	maorpa2_2154	31195	Not fair to the poor	-2	NA	18:19:34	682	530	NA	NA	NA	NA
+2154	maorpa2_2154	31188	Price expensive	-1	NA	18:19:20	490	393	NA	NA	NA	NA
+2154	maorpa2_2154	31181	Technological Implant	0	NA		400	171	NA	NA	NA	NA
+2148	maphro2_2148	31309	scientific progress	3	The use of this implant in science is a great advance, other branches such as medicine can also benefit, through the study of sleep behavior	18:42:26	566	562	NA	NA	NA	NA
+2148	maphro2_2148	31298	implant rejection	-3	there is a possibility that the body will reject the implant, this could lead to health consequences	18:37:20	615	155	NA	NA	NA	NA
+2148	maphro2_2148	31274	more time	3	NA	18:31:20	1003	566	NA	NA	NA	NA
+2148	maphro2_2148	31273	more money	2	NA		808	569	NA	NA	NA	NA
+2148	maphro2_2148	31252	patient treatment	3	"for the treatment of patients with problems related to sleep or similar, it would be of great help
+
+It is well known that the body needs to rest through sleep, if the person is not able to sleep, his physical and mental health deteriorates and more problems arise."	18:28:33	939	360	NA	NA	NA	NA
+2148	maphro2_2148	31242	increased productivity	3	NA	18:24:51	884	469	NA	NA	NA	NA
+2148	maphro2_2148	31207	Accesible price	0	NA		274	70	NA	NA	NA	NA
+2148	maphro2_2148	31202	very expensive	-2	NA	18:21:31	467	66	NA	NA	NA	NA
+2148	maphro2_2148	31143	health improvement	3	NA	18:18:44	766	274	NA	NA	NA	NA
+2148	maphro2_2148	31122	unwanted control (hackers)	-3	NA	18:11:31	151	456	NA	NA	NA	NA
+2148	maphro2_2148	31081	inappropriate use	-1	NA	18:09:40	139	263	NA	NA	NA	NA
+2148	maphro2_2148	31032	cost	10	Depending on the price of the implant, this can be a positive or negative factor for many people.	18:03:20	389	210	NA	NA	NA	NA
+2148	maphro2_2148	31012	technological implant	0	NA	18:18:19	572	407	NA	NA	NA	NA
+2150	mcinow2_2150	31149	Better rest will definitely increase mental state - reduced PTSD?	1	NA	18:13:56	224	497	NA	NA	NA	NA
+2150	mcinow2_2150	31145	Soldiers will be better rested and better at killing others	-1	NA	18:13:25	657	491	NA	NA	NA	NA
+2150	mcinow2_2150	31142	hackable?	-2	NA		450	61	NA	NA	NA	NA
+2150	mcinow2_2150	31130	"""Pick of the litter"" system"	-3	Due to emplyers controlling who is employed, they would prioritize those with the implat (aka those most likely to put the job before their own safety/natural state) who will be the hardest workers, even if it is immoral to do this	18:12:31	710	357	NA	NA	NA	NA
+2150	mcinow2_2150	31126	set employees against each other	-3	NA		875	279	NA	NA	NA	NA
+2150	mcinow2_2150	31118	Highly abusable	-3	NA		741	20	NA	NA	NA	NA
+2150	mcinow2_2150	31110	Controlled enviroment by trained professionals with patient care at heart	3	NA	18:08:31	20	265	NA	NA	NA	NA
+2150	mcinow2_2150	31102	reduced side effects without meds	3	NA	18:07:53	172	20	NA	NA	NA	NA
+2150	mcinow2_2150	31099	sleep disorders	3	NA	18:07:20	24	26	NA	NA	NA	NA
+2150	mcinow2_2150	31089	corporate uses	-3	NA		738	163	NA	NA	NA	NA
+2150	mcinow2_2150	31080	Military uses	10	NA	18:05:58	416	480	NA	NA	NA	NA
+2150	mcinow2_2150	31077	Medical uses	3	NA	18:05:50	86	142	NA	NA	NA	NA
+2150	mcinow2_2150	31074	technological implant	0	 		449	271	NA	NA	NA	NA
+2123	mecopa2_2123	31108	can be used as a weapon.	-3	NA		1064	516	NA	NA	NA	NA
+2123	mecopa2_2123	31085	medical benefits.	1	people who have been seriously injured can be put to sleep to recover.	18:06:30	1036	610	NA	NA	NA	NA
+2123	mecopa2_2123	31059	risks are huge and unkown	-3	NA		402	116	NA	NA	NA	NA
+2123	mecopa2_2123	31021	Elderly.	2	more naps.	18:02:34	30	434	NA	NA	NA	NA
+2123	mecopa2_2123	31016	teens.	-3	stay up for days and party	18:04:46	802	176	NA	NA	NA	NA
+2123	mecopa2_2123	30992	students.	1	Study more. more concentration. 	18:00:40	752	528	NA	NA	NA	NA
+2123	mecopa2_2123	30982	regulating sleep.	2	NA		326	562	NA	NA	NA	NA
+2123	mecopa2_2123	30967	everybody may profit.	3	NA		934	818	NA	NA	NA	NA
+2123	mecopa2_2123	30934	Data Issues.	-2	NA		268	188	NA	NA	NA	NA
+2123	mecopa2_2123	30920	Hackers	-3	NA		170	296	NA	NA	NA	NA
+2123	mecopa2_2123	30892	people may be coerced.	-3	NA		78	842	NA	NA	NA	NA
+2123	mecopa2_2123	30881	Accidents are less likely.	3	NA		228	662	NA	NA	NA	NA
+2123	mecopa2_2123	30865	Economists	10	NA		98	562	NA	NA	NA	NA
+2123	mecopa2_2123	30847	can have multiple functions.	2	NA	17:51:05	388	756	NA	NA	NA	NA
+2123	mecopa2_2123	30833	sustainably produced.	3	NA		684	642	NA	NA	NA	NA
+2123	mecopa2_2123	30804	Reapir itself	2	NA		590	748	NA	NA	NA	NA
+2123	mecopa2_2123	30794	No maintenance.	1	NA		518	514	NA	NA	NA	NA
+2123	mecopa2_2123	30726	alter mentality	-3	NA		998	204	NA	NA	NA	NA
+2123	mecopa2_2123	30704	days without sleep.	2	NA		960	352	NA	NA	NA	NA
+2123	mecopa2_2123	30678	Military.	10	NA		776	294	NA	NA	NA	NA
+2123	mecopa2_2123	30664	scientific advancement.	3	NA		581	108	NA	NA	NA	NA
+2123	mecopa2_2123	30649	technological implant	0	 		378	272	NA	NA	NA	NA
+2161	melial2_2161	31349	Abusing Sleep Regulation	-1	NA	18:54:28	237.661	271.979	NA	NA	NA	NA
+2161	melial2_2161	31336	Negative Use Cases	-3	There are many negative use cases that could be dreamt up to abuse this implant, including pushing yourself too far or a third party manipulating you	18:53:39	1061.67	594.979	NA	NA	NA	NA
+2161	melial2_2161	31347	Reduced Risk of Accidents	1	In relation to fatigue	18:52:34	309.995	484.661	NA	NA	NA	NA
+2161	melial2_2161	31345	Self Running /Repairing	10	NA	18:51:43	828.328	123.979	NA	NA	NA	NA
+2161	melial2_2161	31343	Easy to use	10	NA	18:50:16	655.646	166.661	NA	NA	NA	NA
+2161	melial2_2161	31342	Work Performance	10	NA	18:49:46	521.328	566.646	NA	NA	NA	NA
+2161	melial2_2161	31340	Data Privacy Concerns	-3	NA		1056.66	281.328	NA	NA	NA	NA
+2161	melial2_2161	31338	Work Expectations	-3	NA	18:49:54	379.995	692.995	NA	NA	NA	NA
+2161	melial2_2161	31337	Military Implications	-3	NA		1164.67	447.995	NA	NA	NA	NA
+2161	melial2_2161	31332	Help Regulate Sleep	2	NA		463.646	358.979	NA	NA	NA	NA
+2161	melial2_2161	31331	Techological Implant	0	NA		735.964	388.958	NA	NA	NA	NA
+2186	moaahe2_2186	31776	increased work expectations	-1	NA		838.8	325	NA	NA	NA	NA
+2186	moaahe2_2186	31775	society of have/have nots	-2	NA		795.8	518	NA	NA	NA	NA
+2186	moaahe2_2186	31774	military use	10	NA		184	544	NA	NA	NA	NA
+2186	moaahe2_2186	31773	unnatural	-3	NA		526.6	515	NA	NA	NA	NA
+2186	moaahe2_2186	31772	hacking	-3	NA	00:46:03	334	419	NA	NA	NA	NA
+2186	moaahe2_2186	31771	potential for abuse	-3	NA		157	339	NA	NA	NA	NA
+2186	moaahe2_2186	31769	long lasting	10	NA		83	214	NA	NA	NA	NA
+2186	moaahe2_2186	31768	energy autonomous	10	NA		38	489	NA	NA	NA	NA
+2186	moaahe2_2186	31767	sustainably produced	1	NA		263	20	NA	NA	NA	NA
+2186	moaahe2_2186	31766	better mental health	2	NA		551	20	NA	NA	NA	NA
+2186	moaahe2_2186	31765	more work efficiency	1	NA	00:43:00	816	20	NA	NA	NA	NA
+2186	moaahe2_2186	31764	work longer/better	2	NA		690	129	NA	NA	NA	NA
+2186	moaahe2_2186	31763	helps concentration	1	NA		570	288	NA	NA	NA	NA
+2186	moaahe2_2186	31762	helps sleep disorders	3	NA	00:42:11	423	105	NA	NA	NA	NA
+2186	moaahe2_2186	31761	technological implant	0	NA		365	280	NA	NA	NA	NA
+2133	mogljo2_2133	31154	Decompose naturally	3	NA		1192	291.333	NA	NA	NA	NA
+2133	mogljo2_2133	31146	Self Repairing	2	NA	18:13:38	907.951	249.951	NA	NA	NA	NA
+2133	mogljo2_2133	31135	Status Symbol	-2	Would it become a status symbol of have and have not	18:12:20	486.979	782.986	NA	NA	NA	NA
+2133	mogljo2_2133	30798	Younger User	0	Teenagers and early 20's	18:10:20	908.958	435.958	NA	NA	NA	NA
+2133	mogljo2_2133	30792	Eldery User	0	Pensioners	18:10:07	796	52.9922	NA	NA	NA	NA
+2133	mogljo2_2133	30840	Military exercise	1	Long excursions could be completed easier if soldier didn't have to stop to sleep	18:08:55	133.961	34.9922	NA	NA	NA	NA
+2133	mogljo2_2133	30819	Guaranteed Naps	3	Guaranteed naps and nigh time sleeping could aid elderly	18:03:10	1225.95	-1	NA	NA	NA	NA
+2133	mogljo2_2133	30806	Economic Benefits	3	Workers could be more alert	18:06:34	332.992	324.984	NA	NA	NA	NA
+2133	mogljo2_2133	30900	Data attack	-3	Is personal data safe	18:05:03	1098.97	812.951	NA	NA	NA	NA
+2133	mogljo2_2133	30897	Safety	-3	Would it be safe to stay awake longer for partying. Would user do more damage to themselves. Excessive drinking etc.	18:04:26	860.951	791.993	NA	NA	NA	NA
+2133	mogljo2_2133	30889	Obtrusive	-2	What would it entail to have it installed	18:05:53	719.965	642.965	NA	NA	NA	NA
+2133	mogljo2_2133	30885	Ethical	-1	Is it ethical to tamper with nature	18:06:13	478.972	628.993	NA	NA	NA	NA
+2133	mogljo2_2133	30880	Mental health	-3	How would users mental health be affected if working longer hours	18:07:32	89.9688	526.969	NA	NA	NA	NA
+2133	mogljo2_2133	30879	Longer working days	-1	Would worker be abusing it to work longer than is healthy	18:07:01	96.9844	390.977	NA	NA	NA	NA
+2133	mogljo2_2133	30856	Soldiers Mental Health	-3	Would soldier be more prone to kill and enter attack mode	18:07:57	68.9922	163.984	NA	NA	NA	NA
+2133	mogljo2_2133	30830	Party more	-1	NA	17:58:38	1200.95	683.958	NA	NA	NA	NA
+2133	mogljo2_2133	30823	Use as a study aid	3	Student could study for longer and sleep when needed	18:04:47	1236.94	446.958	NA	NA	NA	NA
+2133	mogljo2_2133	30801	Military User	1	Would help the military structure the soldiers time	18:09:19	323.984	141.984	NA	NA	NA	NA
+2133	mogljo2_2133	30770	Aid Sleeping	3	Huge benefit to allow user to sleep when they really needed to and be more alert when it was required	18:09:55	557.969	74.9766	NA	NA	NA	NA
+2133	mogljo2_2133	30768	technological implant	0	 		588.984	280.984	NA	NA	NA	NA
+2173	nabiqa2_2173	31564	people may not sleep at all which could become damaging to the body	-3	NA	20:14:36	499	481	NA	NA	NA	NA
+2173	nabiqa2_2173	31563	people may abuse it e.g., may sleep  more than needed and become lazy/unfit	-3	NA		684	454	NA	NA	NA	NA
+2173	nabiqa2_2173	31562	people may worry about the self destruct feature in case it malfunctions	-3	NA		667	310	NA	NA	NA	NA
+2173	nabiqa2_2173	31561	people could hack into the device and mess with when people sleep	-3	NA		618	42	NA	NA	NA	NA
+2173	nabiqa2_2173	31560	people could stay up late if needed e.g. night shifts	3	NA		108	447	NA	NA	NA	NA
+2173	nabiqa2_2173	31559	less people with insomnia	3	NA		114	324	NA	NA	NA	NA
+2173	nabiqa2_2173	31558	people who are unable to get any sleep will be able to control when they can sleep	3	NA		278	30	NA	NA	NA	NA
+2173	nabiqa2_2173	31557	Negative	-3	NA		636	177	NA	NA	NA	NA
+2173	nabiqa2_2173	31556	Positive	3	NA	20:09:41	155	196	NA	NA	NA	NA
+2173	nabiqa2_2173	31555	technological implant	0	NA		440	309	NA	NA	NA	NA
+2151	nnpopa2_2151	31231	bad side effects	-3	NA		301	235	NA	NA	NA	NA
+2151	nnpopa2_2151	31222	increases learning curves and activities of people	3	NA		257	47	NA	NA	NA	NA
+2151	nnpopa2_2151	31213	helps with sleeping disorder	3	NA		922	33	NA	NA	NA	NA
+2151	nnpopa2_2151	31180	fear of being excluded due to no implant	-3	NA		980	218	NA	NA	NA	NA
+2151	nnpopa2_2151	31171	Fear of people to get such device	-3	NA		473	477	NA	NA	NA	NA
+2151	nnpopa2_2151	31161	soliders ready kill	-3	NA		390	317	NA	NA	NA	NA
+2151	nnpopa2_2151	31159	data privacy unclear	-3	NA	18:15:03	666	351	NA	NA	NA	NA
+2151	nnpopa2_2151	31153	hacker problem	-3	NA		903	389	NA	NA	NA	NA
+2151	nnpopa2_2151	31148	technological implant	0	NA		670	46	NA	NA	NA	NA
+2130	nonakr2_2130	31113	Better sleep schedule and more time for productive things	3	NA	18:08:57	295	411	NA	NA	NA	NA
+2130	nonakr2_2130	31066	Infinite sleep	10	NA	18:04:37	392	62	NA	NA	NA	NA
+2130	nonakr2_2130	31030	It can explode	-3	NA		719	74	NA	NA	NA	NA
+2130	nonakr2_2130	30941	Sorting people as better and worse depending on the chip	10	NA	17:56:17	503	364	NA	NA	NA	NA
+2130	nonakr2_2130	30893	Much more machine like	-3	NA		850	84	NA	NA	NA	NA
+2130	nonakr2_2130	30857	Chips become much more popular	10	NA		579	465	NA	NA	NA	NA
+2130	nonakr2_2130	30850	Inequality in the workplace	10	NA		668	391	NA	NA	NA	NA
+2130	nonakr2_2130	30818	Less mental problems connected with sleep issues	3	NA	17:49:36	211	271	NA	NA	NA	NA
+2130	nonakr2_2130	30788	Better quality of sleep	3	NA		491	134	NA	NA	NA	NA
+2130	nonakr2_2130	30787	More productivity in work	3	NA		315	302	NA	NA	NA	NA
+2130	nonakr2_2130	30783	More time for hobbys	3	NA		277	168	NA	NA	NA	NA
+2130	nonakr2_2130	30778	Better sleep	3	NA	17:47:35	425	235	NA	NA	NA	NA
+2130	nonakr2_2130	30746	By workers	-2	NA	17:46:26	859	360	NA	NA	NA	NA
+2130	nonakr2_2130	30717	By children	-2	NA		989	335	NA	NA	NA	NA
+2130	nonakr2_2130	30709	By military	-2	NA		1063	237	NA	NA	NA	NA
+2130	nonakr2_2130	30706	By government	-2	NA		980	107	NA	NA	NA	NA
+2130	nonakr2_2130	30697	Abuse	-3	NA		813	203	NA	NA	NA	NA
+2130	nonakr2_2130	30688	technological implant	10	NA	17:48:32	602	207	NA	NA	NA	NA
+2217	nxduvi2_2217	32389	Health benefit	3	NA		1171	476	NA	NA	NA	NA
+2217	nxduvi2_2217	32388	inequality in socialty	-1	NA	17:31:02	137	130	NA	NA	NA	NA
+2217	nxduvi2_2217	32387	Can cause tension with people who do not have the implant	-2	NA	17:30:13	254	497	NA	NA	NA	NA
+2217	nxduvi2_2217	32320	unfair advantage	-2	NA		141	313	NA	NA	NA	NA
+2217	nxduvi2_2217	32319	it can be misused by the user	-3	NA		374	343	NA	NA	NA	NA
+2217	nxduvi2_2217	32252	it can be hacked	-2	NA		620	331	NA	NA	NA	NA
+2217	nxduvi2_2217	32251	we not sure of long term impact	10	NA	17:26:02	408	176	NA	NA	NA	NA
+2217	nxduvi2_2217	32250	immoral	10	NA	17:25:18	418	20	NA	NA	NA	NA
+2217	nxduvi2_2217	32249	less irritable	2	NA	17:23:55	795	403	NA	NA	NA	NA
+2217	nxduvi2_2217	32248	more productivity	3	NA	17:22:11	972	334	NA	NA	NA	NA
+2217	nxduvi2_2217	32247	able to concentrate better at work	3	NA		1061	192	NA	NA	NA	NA
+2217	nxduvi2_2217	32180	Help with sleeping disorder	3	NA	17:20:46	789	238	NA	NA	NA	NA
+2217	nxduvi2_2217	32179	Development of new technology	0	NA	17:20:10	937	35	NA	NA	NA	NA
+2217	nxduvi2_2217	32178	technological implant	0	NA		629	119	NA	NA	NA	NA
+2136	pabita2_2136	31229	Security concerns	-2	Concerns regarding the safety of the implant? How secure is the implant, may be possible for the implant to be hacked which can have major consequences where the hacker may change the function of the implant, potentially causing harm to users	18:25:25	251	448	NA	NA	NA	NA
+2136	pabita2_2136	31211	Discrimination	-1	There may be discrimination in regards to whether or not you have the implant.  One example is in job applications where one employee may only hire those with the implant or another employee may hire those without the implant	18:22:23	133	265	NA	NA	NA	NA
+2136	pabita2_2136	31192	Cheap to use/run	1	The implant runs on natural body functions (electircal waves, bloodflow, temperature) and it is long lasting (around 20 year) which will reduce cost	18:19:54	232	20	NA	NA	NA	NA
+2136	pabita2_2136	31176	Cost	0	How much will the implant cost? Does it require a new smartphone? is their an installation fee? Will you have to pay for the implant	18:18:29	372	149	NA	NA	NA	NA
+2136	pabita2_2136	31152	May not be the optimal treatment	-1	There may be other factors that can affect sleep such as an environmental factor where the implant may not be effective. In this case it shouldn't be thought of as a single treatment but instead supplemented alongside another treatment method.	18:16:37	758	544	NA	NA	NA	NA
+2136	pabita2_2136	31067	Ease of burden	1	Users will not require much effort to use the implant as an effective method to treat sleep disorders compared to other treatment methods such as therapy. It also does not seem to have the side effects of similar effort treatment such as drugs (no fear of addiction etc)	18:09:42	675	214	NA	NA	NA	NA
+2136	pabita2_2136	31140	No long term use required	1	The implant will deteriorate itself in a safe way if users do not want to use it anymore, meaning it does not require any long term commitment if users change their minds on whether or not they want to use it	18:13:18	788	393	NA	NA	NA	NA
+2136	pabita2_2136	31050	Method of treatment	10	the implant can be used as a new method to treat sleep disorders	18:03:34	545	461	NA	NA	NA	NA
+2136	pabita2_2136	31005	Can be abused?	-1	As the sleep wake cycle is 90 minute intervals, users may set a shorter cycle in order to have more time, do other things etc. Short term effects may be minimal but in the longterm if repeatedly used, it can lead to sleep deprivation	18:02:01	981	20	NA	NA	NA	NA
+2136	pabita2_2136	30981	Better quality of life	1	Better sleep wake cycle will mean users will have better sleep, therefore increasing their quality of life in many aspects such as social, physical, and work related aspects of life.	17:59:44	1002	136	NA	NA	NA	NA
+2136	pabita2_2136	30836	Better productivity	10	 Users of the implant should have better sleep. As their sleep is better, they will be more alert/awake therefore in many tasks such as work, they should be more productive as their sleep is better, so they will not have negative affects of poor sleep such as tiredness/lack of concentration etc.	17:54:46	887	326	NA	NA	NA	NA
+2136	pabita2_2136	30914	Productivity can be abused	-2	As users are likely to be more productive, this  can be abused where employees may give users of this implant greater work loads . This can lead to users becoming stressed and inturn actually affect productivity on work as work quality is likely to be worse as more work is given	17:57:48	1027	482	NA	NA	NA	NA
+2136	pabita2_2136	30803	Regulates/sleep wake cycle	10	The implant is able to regulate a persons sleep/wake cycle	17:49:48	683	76	NA	NA	NA	NA
+2136	pabita2_2136	30791	technological implant	0	 		378	272	NA	NA	NA	NA
+2184	palofa2_2184	31757	hackers	-1	NA		310	20	NA	NA	NA	NA
+2184	palofa2_2184	31756	sensitive data being sold for profit	-1	NA	23:00:50	20	90	NA	NA	NA	NA
+2184	palofa2_2184	31755	data privacy	-1	NA		199	93	NA	NA	NA	NA
+2184	palofa2_2184	31754	change in mentality	-1	NA		20	317	NA	NA	NA	NA
+2184	palofa2_2184	31752	greater efficiency	1	NA		20	200	NA	NA	NA	NA
+2184	palofa2_2184	31751	longer missions	1	NA		182	197	NA	NA	NA	NA
+2184	palofa2_2184	31749	military	10	NA		192	298	NA	NA	NA	NA
+2184	palofa2_2184	31748	unethical	-1	NA		27	528	NA	NA	NA	NA
+2184	palofa2_2184	31747	profiteering	-1	NA		75	408	NA	NA	NA	NA
+2184	palofa2_2184	31746	less dependency on drugs	1	NA		355	602	NA	NA	NA	NA
+2184	palofa2_2184	31745	regulate sleep disorders	1	NA		254	492	NA	NA	NA	NA
+2184	palofa2_2184	31744	medical benefits	2	NA		284	388	NA	NA	NA	NA
+2184	palofa2_2184	31743	long term neurological effect?	-1	NA		850	544	NA	NA	NA	NA
+2184	palofa2_2184	31734	simple surgery	1	NA		766	233	NA	NA	NA	NA
+2184	palofa2_2184	31740	self-sufficient	1	NA		518	443	NA	NA	NA	NA
+2184	palofa2_2184	31738	brain	10	NA	22:50:32	703	442	NA	NA	NA	NA
+2184	palofa2_2184	31736	ease of access	1	NA		787	344	NA	NA	NA	NA
+2184	palofa2_2184	31732	location	10	NA		596	311	NA	NA	NA	NA
+2184	palofa2_2184	31729	evidence of experience?	10	NA	22:48:56	373	119	NA	NA	NA	NA
+2184	palofa2_2184	31726	trustworthy	2	NA	22:47:12	765	120	NA	NA	NA	NA
+2184	palofa2_2184	31725	experience	1	NA	22:46:51	487	20	NA	NA	NA	NA
+2184	palofa2_2184	31724	interdisciplinary	1	NA	22:46:27	682	24	NA	NA	NA	NA
+2184	palofa2_2184	31723	Scientists	1	NA		561	156	NA	NA	NA	NA
+2184	palofa2_2184	31722	technological implant	0	NA		378	272	NA	NA	NA	NA
+2143	pebime2_2143	31219	against nature	-2	NA	18:21:50	586	331	NA	NA	NA	NA
+2143	pebime2_2143	31197	People are afraid of AI/new technology concepts	-2	NA	18:19:57	597	158	NA	NA	NA	NA
+2143	pebime2_2143	31141	potential to improve mission outcomes	2	NA	18:13:23	84	530	NA	NA	NA	NA
+2143	pebime2_2143	31138	increased risk of killing	-3	NA	18:13:28	731	544	NA	NA	NA	NA
+2143	pebime2_2143	31137	self repairing if minor damage	2	NA	18:12:55	542	461	NA	NA	NA	NA
+2143	pebime2_2143	31134	potential for corruption during self repair	-3	NA	18:13:20	762	332	NA	NA	NA	NA
+2143	pebime2_2143	31132	potentially open to hackers	-3	NA	18:13:16	645	36	NA	NA	NA	NA
+2143	pebime2_2143	31129	powered by elements of the body	2	NA	18:12:59	20	139	NA	NA	NA	NA
+2143	pebime2_2143	31127	possible applications in the military	10	NA	18:13:31	330	546	NA	NA	NA	NA
+2143	pebime2_2143	31125	controlled by mobile phone app	2	NA	18:13:14	336	41	NA	NA	NA	NA
+2143	pebime2_2143	31124	self-degrading & readily metabolised if no longer needed/damaged	2	NA	18:13:03	203	387	NA	NA	NA	NA
+2143	pebime2_2143	31119	can make people more efficient	2	NA	18:13:07	20	303	NA	NA	NA	NA
+2143	pebime2_2143	31115	life span of 20 years	2	NA	18:13:11	105	20	NA	NA	NA	NA
+2143	pebime2_2143	30969	technological implant	0	NA		378	272	NA	NA	NA	NA
+2165	pebrta2_2165	31450	no waste	1	NA		548	20	NA	NA	NA	NA
+2165	pebrta2_2165	31449	sustainable	2	NA		378	42	NA	NA	NA	NA
+2165	pebrta2_2165	31448	environment	2	NA	19:39:37	527	140	NA	NA	NA	NA
+2165	pebrta2_2165	31443	could cause bigger divides between those who can afford it and those who can't	-1	NA	19:38:59	66	556	NA	NA	NA	NA
+2165	pebrta2_2165	31433	employers could be biased	-1	NA		333	589	NA	NA	NA	NA
+2165	pebrta2_2165	31432	peer pressure to get one	-1	NA		438	484	NA	NA	NA	NA
+2165	pebrta2_2165	31430	feel more awake	1	NA		91	309	NA	NA	NA	NA
+2165	pebrta2_2165	31428	no more insomnia	1	NA		106	63	NA	NA	NA	NA
+2165	pebrta2_2165	31424	hackers	-1	NA	19:35:39	989	577	NA	NA	NA	NA
+2165	pebrta2_2165	31421	potential health problems	-1	NA	19:35:26	1126	488	NA	NA	NA	NA
+2165	pebrta2_2165	31419	not fully researched	-1	NA		982	392	NA	NA	NA	NA
+2165	pebrta2_2165	31416	less feeling tired	1	NA	19:34:41	1096	209	NA	NA	NA	NA
+2165	pebrta2_2165	31415	concentration at work	1	NA		994	33	NA	NA	NA	NA
+2165	pebrta2_2165	31412	more energy for leisure activities	1	NA	19:33:38	729	27	NA	NA	NA	NA
+2165	pebrta2_2165	31409	efficient lifestye	2	NA	19:33:34	841	153	NA	NA	NA	NA
+2165	pebrta2_2165	31404	potential for divide	-2	NA		188	436	NA	NA	NA	NA
+2165	pebrta2_2165	31393	helps with sleep problems	2	NA		224	189	NA	NA	NA	NA
+2165	pebrta2_2165	31390	scary	-2	NA	19:28:20	817	476	NA	NA	NA	NA
+2165	pebrta2_2165	31385	technological implant	0	NA	19:32:18	517	306	NA	NA	NA	NA
+2175	peviwe2_2175	31599	Disadvantaged people do not have new standard of human health	-2	NA	20:48:47	580	525.75	NA	NA	NA	NA
+2175	peviwe2_2175	31598	Increase in racism/classism	-2	NA		460	381	NA	NA	NA	NA
+2175	peviwe2_2175	31597	Decreased dangers related to sleep	1	NA		713.344	161	NA	NA	NA	NA
+2175	peviwe2_2175	31594	Allowing technology to have control of human biology	-2	NA	20:42:42	210	20	NA	NA	NA	NA
+2175	peviwe2_2175	31591	Increase of dependence on technology	-2	NA		78	64	NA	NA	NA	NA
+2175	peviwe2_2175	31590	Advancements in medical science	3	NA	20:40:36	455	186	NA	NA	NA	NA
+2175	peviwe2_2175	31588	Merging with technology	10	NA		221	157	NA	NA	NA	NA
+2175	peviwe2_2175	31587	Separation of class	-1	NA		258	378	NA	NA	NA	NA
+2175	peviwe2_2175	31586	Improved relationships	1	NA	20:38:49	712	85	NA	NA	NA	NA
+2175	peviwe2_2175	31585	Political Disarray	-1	NA		32	431	NA	NA	NA	NA
+2175	peviwe2_2175	31583	Guaranteed sleep	1	NA		636	20	NA	NA	NA	NA
+2175	peviwe2_2175	31581	Less stress	1	NA		506	20	NA	NA	NA	NA
+2175	peviwe2_2175	31580	Improved brain function	1	NA		391	33	NA	NA	NA	NA
+2175	peviwe2_2175	31579	Individual Health Benefits	1	NA		515	93	NA	NA	NA	NA
+2175	peviwe2_2175	31574	technological implant	0	NA		378	272	NA	NA	NA	NA
+2126	prloja2_2126	30807	potentials for misuse	-2	NA	NA	513	449	NA	NA	NA	NA
+2126	prloja2_2126	30789	What controls would there be over the company creates them if rolled out largely	0	NA	NA	245	418	NA	NA	NA	NA
+2126	prloja2_2126	30775	Unknowns of this technology if widely used	10	NA	NA	500	192	NA	NA	NA	NA
+2126	prloja2_2126	30762	At what cost?	-3	NA	NA	274	98	NA	NA	NA	NA
+2126	prloja2_2126	30759	economic advancement	2	NA	NA	202	196	NA	NA	NA	NA
+2126	prloja2_2126	30740	I would be judged if I used it by some	-3	NA	NA	647	514	NA	NA	NA	NA
+2126	prloja2_2126	30713	people are fearful of new tech	-1	NA	NA	753	426	NA	NA	NA	NA
+2126	prloja2_2126	30701	Healthcare and Military use case are proven	3	NA	NA	528	28	NA	NA	NA	NA
+2126	prloja2_2126	30696	societal improvement	2	NA	NA	821	290	NA	NA	NA	NA
+2126	prloja2_2126	30692	There are already use cases that benefit	2	NA	NA	644	114	NA	NA	NA	NA
+2126	prloja2_2126	30658	technological implant	0	NA	NA	377	272	NA	NA	NA	NA
+2153	rimian2_2153	31311	Humans Going Too Far?	0	NA		116	481	NA	NA	NA	NA
+2153	rimian2_2153	31306	Immorality	10	NA	18:38:42	176	360	NA	NA	NA	NA
+2153	rimian2_2153	31279	Work Performance	1	NA	18:32:06	745	23	NA	NA	NA	NA
+2153	rimian2_2153	31297	Can Others Control You?	-3	NA	18:35:30	724	479	NA	NA	NA	NA
+2153	rimian2_2153	31295	Conspiracy Theories	-2	NA	18:35:05	520	491	NA	NA	NA	NA
+2153	rimian2_2153	31292	Hacking?	-3	NA	18:35:07	678	354	NA	NA	NA	NA
+2153	rimian2_2153	31290	What are the potential side effects	-2	NA	18:35:12	538	249	NA	NA	NA	NA
+2153	rimian2_2153	31289	Is it what it says?	-1	NA	18:35:02	305	423	NA	NA	NA	NA
+2153	rimian2_2153	31288	Dangers	-3	NA	18:33:51	375	304	NA	NA	NA	NA
+2153	rimian2_2153	31282	Health Benefits	3	NA	18:31:59	667	127	NA	NA	NA	NA
+2153	rimian2_2153	31281	Lifestyle Improvements	1	NA	18:32:11	737	226	NA	NA	NA	NA
+2153	rimian2_2153	31270	Inexpensive	3	NA	18:29:04	307	20	NA	NA	NA	NA
+2153	rimian2_2153	31263	Benefits of the Implant	3	NA	18:27:56	174	116	NA	NA	NA	NA
+2153	rimian2_2153	31247	Low Carbon Footprint	3	NA	18:28:52	170	270	NA	NA	NA	NA
+2153	rimian2_2153	31245	Low Maintenence	3	NA	18:28:23	20	206	NA	NA	NA	NA
+2153	rimian2_2153	31244	Self Repairing	3	NA	18:28:15	30	20	NA	NA	NA	NA
+2153	rimian2_2153	31243	Regural Sleeping Pattern	1	NA	18:32:01	530	20	NA	NA	NA	NA
+2153	rimian2_2153	31158	Technological Implant	0	NA		397	148	NA	NA	NA	NA
+2164	rolimi2_2164	31506	Abused use	-2	Military could abuse the use of it and work soliders too hard. Or employers may do the same	19:48:52	480	555.455	NA	NA	NA	NA
+2164	rolimi2_2164	31487	technology future	10	Could this technology lead to negative inventive technology that serves people wrongly, Maybe Goes too far eventually. 	19:47:05	96.3636	143.636	NA	NA	NA	NA
+2164	rolimi2_2164	31473	life	2	Live again feeling of getting your life back	19:44:37	1104	354.364	NA	NA	NA	NA
+2164	rolimi2_2164	31470	Health	3	Where the is negative effects on health. some people will find positive effects on there health. Finally being themselves again feeling revitalised after a sleep and can go about daily life with ease without the struggle. may reduce depression. may also reduce the negative effects of all other drugs	19:43:26	1074.55	153.636	NA	NA	NA	NA
+2164	rolimi2_2164	31429	Health	-1	NA	19:38:38	300.818	513.352	NA	NA	NA	NA
+2164	rolimi2_2164	31425	Anxiety	0	People may worry when they have or don't have this implant switched on and using. may rely on it too much and take there mind elsewhere with worry	19:37:11	527.992	445.17	NA	NA	NA	NA
+2164	rolimi2_2164	31413	Exclusion	-1	People may be excluded but may need the technology. A divide in the device might become a must have gizmo. those with more money afford that don't necessary need. Those that need but cant afford or get hold of	19:34:55	299.091	80	NA	NA	NA	NA
+2164	rolimi2_2164	31406	hacker control	-3	NA		100	308.818	NA	NA	NA	NA
+2164	rolimi2_2164	31401	Privacy	-2	Fears of data being breached 	19:31:28	288.182	365.455	NA	NA	NA	NA
+2164	rolimi2_2164	31368	technological implant	10	NA	19:17:11	596.983	246.974	NA	NA	NA	NA
+2164	rolimi2_2164	31397	Party goers	10	Not sure if this is good or bad. Depends on the person	19:30:23	907.273	439.091	NA	NA	NA	NA
+2164	rolimi2_2164	31392	reduce accidents	0	NA	19:29:00	593.716	131.719	NA	NA	NA	NA
+2164	rolimi2_2164	31388	unkown dangers	-3	New technology new unknown malfunctions could cause injury or worse case scenario death	19:26:36	272.727	189.182	NA	NA	NA	NA
+2164	rolimi2_2164	31383	sleep deprivation reduce	3	NA	19:24:21	949.091	266.364	NA	NA	NA	NA
+2164	rolimi2_2164	31381	app on phone	3	the ease of a button to send you to sleep no need for drugs	19:21:26	782.449	100.082	NA	NA	NA	NA
+2164	rolimi2_2164	31379	No drugs	2	Drugs can cause addiction and react differently with people so the implant would take this strain away	19:20:20	1029.81	41.179	NA	NA	NA	NA
+2164	rolimi2_2164	31376	Wake up when you like	3	NA		856.983	21	NA	NA	NA	NA
+2164	rolimi2_2164	31375	sleep when you want	3	NA		627.989	21	NA	NA	NA	NA
+2190	saalra2_2190	31840	social marker	-3	NA		1149.64	469.271	NA	NA	NA	NA
+2190	saalra2_2190	31839	mental health benefits	3	NA	19:26:17	935.333	607	NA	NA	NA	NA
+2190	saalra2_2190	31838	controlled by an app	-3	NA		1058.67	82.2865	NA	NA	NA	NA
+2190	saalra2_2190	31837	boost concentration	3	NA	19:20:12	108.979	728.312	NA	NA	NA	NA
+2190	saalra2_2190	31836	prevents accidents	2	NA	19:24:34	1205.57	214.896	NA	NA	NA	NA
+2190	saalra2_2190	31835	reduce stress	3	NA	19:20:01	316.661	647	NA	NA	NA	NA
+2190	saalra2_2190	31834	boost  performances	1	NA	19:20:04	85.9948	579.422	NA	NA	NA	NA
+2190	saalra2_2190	31833	obligation to have it	-3	NA	19:20:07	189.266	452.115	NA	NA	NA	NA
+2190	saalra2_2190	31832	work	10	NA	19:19:57	409.557	439.682	NA	NA	NA	NA
+2190	saalra2_2190	31831	leisure	10	NA	19:19:13	1002.94	312.917	NA	NA	NA	NA
+2190	saalra2_2190	31830	kids	-3	NA	19:19:16	899.818	450.318	NA	NA	NA	NA
+2190	saalra2_2190	31829	long durability	3	NA	19:20:19	127.429	17.4286	NA	NA	NA	NA
+2190	saalra2_2190	31828	self destruction	3	NA	19:20:14	69.5714	267.571	NA	NA	NA	NA
+2190	saalra2_2190	31827	self repair	3	NA	19:20:17	17.4286	128.286	NA	NA	NA	NA
+2190	saalra2_2190	31826	suffering patients	3	NA	19:19:23	509.354	675.26	NA	NA	NA	NA
+2190	saalra2_2190	31825	sleep troubles	3	NA	19:19:32	826.245	703.703	NA	NA	NA	NA
+2190	saalra2_2190	31824	replaces drugs	3	NA	19:19:21	669.089	632.505	NA	NA	NA	NA
+2190	saalra2_2190	31823	self-sufficient	3	NA	19:20:24	358.646	149.693	NA	NA	NA	NA
+2190	saalra2_2190	31822	ethic	-1	NA	19:29:44	492.948	29.9948	NA	NA	NA	NA
+2190	saalra2_2190	31821	unnatural	-1	NA	19:29:40	696.932	19	NA	NA	NA	NA
+2190	saalra2_2190	31820	unbalanced	-3	NA	19:20:37	901.432	25.9062	NA	NA	NA	NA
+2190	saalra2_2190	31819	science progess	3	NA	19:20:27	365.933	297.219	NA	NA	NA	NA
+2190	saalra2_2190	31818	medical use	3	NA	19:26:17	655.469	472.469	NA	NA	NA	NA
+2190	saalra2_2190	31817	technological implant	0	NA	19:29:31	669.922	254.917	NA	NA	NA	NA
+2162	sabuel2_2162	31391	Energy Power	3	NA		1167	92	NA	NA	NA	NA
+2162	sabuel2_2162	31389	Long lifespan	3	It it great that something so small does not need to be replaced soon or often and has a very long life so can be dismissed and forgotten about to not worry and just enjoy and get on with life.	19:27:21	1061	511	NA	NA	NA	NA
+2162	sabuel2_2162	31382	Hacking	-3	NA		411	520	NA	NA	NA	NA
+2162	sabuel2_2162	31377	Mental Health	-3	It is possible that people might start to feel uncomfortable having the implant in them and  even if it is removed, they might be concerned at how it has affected them and be paranoid even if it dissolves successfully.	19:19:14	163	436	NA	NA	NA	NA
+2162	sabuel2_2162	31374	Improved society	10	The unknown risk or even ignorance of any manafacturer to later think it is safe from hacking like all major brands these days could cause detriment or death to people and damage to quality of life.	19:22:55	740	544	NA	NA	NA	NA
+2162	sabuel2_2162	31369	Side Effects	-3	In theory there would be no negative side effects, but this might happen, could happen over a long period of time, might be possible with unknown medicines or hereditary conditions and then not be reversible even if dissolved.	19:15:01	402	20	NA	NA	NA	NA
+2162	sabuel2_2162	31364	Dissolving	10	Wilst it is good that no procedure is needed to get rid of the device, it is possible that this doesn't happena and it goes wrong, like all computers, they always have problems. So people might have mental health issues with devices still inside them or have to have further procedures.	19:13:34	907	20	NA	NA	NA	NA
+2162	sabuel2_2162	31361	Health Issues	10	Whilst it is good that it might help people with health issues to improve their quality of life and offer them some hope, there's the chance to make it worse, cause side effects or give them false ope that pushes their mental health lower.	19:11:57	1130	314	NA	NA	NA	NA
+2162	sabuel2_2162	31360	Free Choice	10	Whilst the implant is in theory an optional device to have installed, without it, you could find your options, disability allowance or acceptance in society are diminsihed, so you might feel pressured to have one that you do not want.	19:08:13	53	228	NA	NA	NA	NA
+2162	sabuel2_2162	31359	Technological Implant	0	NA	19:27:28	649	291	NA	NA	NA	NA
+2134	sahvda2_2134	31084	concentration	2	NA		162	405	NA	NA	NA	NA
+2134	sahvda2_2134	31053	More emotional	-3	NA		659	551	NA	NA	NA	NA
+2134	sahvda2_2134	31008	Nausea	-3	NA		415	492	NA	NA	NA	NA
+2134	sahvda2_2134	30994	Sadness	-3	NA		679	479	NA	NA	NA	NA
+2134	sahvda2_2134	30984	irritability	-3	NA	17:59:25	679	402	NA	NA	NA	NA
+2134	sahvda2_2134	30974	headache	-3	NA	17:58:16	417	416	NA	NA	NA	NA
+2134	sahvda2_2134	30952	Thinking	3	NA	18:05:52	174	301	NA	NA	NA	NA
+2134	sahvda2_2134	30948	Physical	-2	NA		397	299	NA	NA	NA	NA
+2134	sahvda2_2134	30918	Emotional/mood	-3	NA	17:55:58	647	293	NA	NA	NA	NA
+2134	sahvda2_2134	30883	brain	-3	NA		412	161	NA	NA	NA	NA
+2134	sahvda2_2134	30875	Sleeping conditions	2	NA		184	44	NA	NA	NA	NA
+2134	sahvda2_2134	30861	Self treatment	2	NA		643	29	NA	NA	NA	NA
+2134	sahvda2_2134	30827	costs	-3	NA		187	169	NA	NA	NA	NA
+2134	sahvda2_2134	30796	health	-2	NA	17:53:47	621	157	NA	NA	NA	NA
+2134	sahvda2_2134	30782	technological implant	0	NA		399	20	NA	NA	NA	NA
+2149	saloim2_2149	31268	naturally decompose if not needed anymore	2	NA		157	474	NA	NA	NA	NA
+2149	saloim2_2149	31264	less accidents caused due to fatigue	2	NA		1182	41	NA	NA	NA	NA
+2149	saloim2_2149	31261	more energy during the day	2	NA		1204	177	NA	NA	NA	NA
+2149	saloim2_2149	31259	can be hacked	-2	NA		992	292	NA	NA	NA	NA
+2149	saloim2_2149	31255	security	10	NA		713	302	NA	NA	NA	NA
+2149	saloim2_2149	31254	no maintenance	2	NA	18:26:26	151	305	NA	NA	NA	NA
+2149	saloim2_2149	31253	efficient	2	NA		161	100	NA	NA	NA	NA
+2149	saloim2_2149	31239	creates social classes	-3	NA		1055	417	NA	NA	NA	NA
+2149	saloim2_2149	31236	dividing	-2	NA		704	465	NA	NA	NA	NA
+2149	saloim2_2149	31233	good sleep pattern	1	NA	18:24:03	978	82	NA	NA	NA	NA
+2149	saloim2_2149	31224	convenient	2	NA		671	127	NA	NA	NA	NA
+2149	saloim2_2149	31029	technological implant	0	NA		378	272	NA	NA	NA	NA
+2163	siroro2_2163	31380	financial gain for others	-3	NA	19:20:18	688	245	NA	NA	NA	NA
+2163	siroro2_2163	31378	unnatural	-3	NA		253	485	NA	NA	NA	NA
+2163	siroro2_2163	31373	physical health	10	NA	19:16:43	104	297	NA	NA	NA	NA
+2163	siroro2_2163	31372	abuse	-3	NA	19:15:14	634	126	NA	NA	NA	NA
+2163	siroro2_2163	31371	work	10	NA	19:17:18	674	20	NA	NA	NA	NA
+2163	siroro2_2163	31370	exploitation	-3	NA	19:17:50	457	27	NA	NA	NA	NA
+2163	siroro2_2163	31366	mental health	10	NA	19:16:48	224	20	NA	NA	NA	NA
+2163	siroro2_2163	31365	sleep problems	3	NA		86	134	NA	NA	NA	NA
+2163	siroro2_2163	31363	technological implant	0	NA		395	268	NA	NA	NA	NA
+2138	sitesh2_2138	31037	no more quite nights	-2	the night time sleep simply doesnt mean anything anymore and people who use this device are free to go everywhere and night life will be more common	18:09:51	233	270	NA	NA	NA	NA
+2138	sitesh2_2138	31184	worldwide economical growth	1	because of this device people start to make more money and start to spend more 	18:18:40	360.25	78	NA	NA	NA	NA
+2138	sitesh2_2138	31172	more inequality in society	-3	i imagine after a while people who use this device are more sucsesfull and the ones who cant afford it have fewer opportunities 	18:16:38	260	467.5	NA	NA	NA	NA
+2138	sitesh2_2138	31103	Wrong use	-3	NA		743.75	587	NA	NA	NA	NA
+2138	sitesh2_2138	30975	Decompositin	3	in case anyone dont want to have it anumore	18:07:32	1089.5	374	NA	NA	NA	NA
+2138	sitesh2_2138	31088	hacking risks	-3	NA		486.25	570	NA	NA	NA	NA
+2138	sitesh2_2138	30956	better sleep cycles	2	NA	18:04:41	1029	204.25	NA	NA	NA	NA
+2138	sitesh2_2138	31002	more efficiency	1	people are able to work better 	18:07:02	618.75	29	NA	NA	NA	NA
+2138	sitesh2_2138	30999	Medical use	1	NA		867.5	91.5	NA	NA	NA	NA
+2138	sitesh2_2138	30961	sustaiability	2	NA	18:04:18	975.5	522.25	NA	NA	NA	NA
+2138	sitesh2_2138	30910	technological Implant	0	NA		640	286.5	NA	NA	NA	NA
+2142	skdeco2_2142	31250	mental health improved	1	NA		332.98046875	226.222671508789	NA	NA	NA	NA
+2142	skdeco2_2142	31240	improved economy	1	NA		794.73046875	152.23046875	NA	NA	NA	NA
+2142	skdeco2_2142	31234	increased personal productivity	1	NA		587.21875	118.707038879395	NA	NA	NA	NA
+2142	skdeco2_2142	31232	more quality free time	1	NA		671.9375	241.71875	NA	NA	NA	NA
+2142	skdeco2_2142	31221	fewer sleep related accidents	1	NA		192.484375	269.7265625	NA	NA	NA	NA
+2142	skdeco2_2142	31205	end of sleep disorders	1	NA		340.96875	382.98828125	NA	NA	NA	NA
+2142	skdeco2_2142	31194	no drugs	1	NA		476.96484375	527.9921875	NA	NA	NA	NA
+2142	skdeco2_2142	31167	health benefits	2	NA		620.9609375	406.976593017578	NA	NA	NA	NA
+2142	skdeco2_2142	31120	loss of control	-1	NA		1476	101	NA	NA	NA	NA
+2142	skdeco2_2142	31114	hackers	-2	NA		1538	295	NA	NA	NA	NA
+2142	skdeco2_2142	31109	privacy concerns	-2	NA		1374	204	NA	NA	NA	NA
+2142	skdeco2_2142	31105	social unrest	-2	NA		1478	461	NA	NA	NA	NA
+2142	skdeco2_2142	31100	unequal society	-3	NA		1089	357	NA	NA	NA	NA
+2142	skdeco2_2142	31070	forced use by bosses	-2	NA		1291	299	NA	NA	NA	NA
+2142	skdeco2_2142	31034	overuse	-2	NA		1211	172	NA	NA	NA	NA
+2142	skdeco2_2142	31017	unnatural sleep patters	-2	NA		1015	22	NA	NA	NA	NA
+2142	skdeco2_2142	31003	unknown side effects	-2	NA		1220	66	NA	NA	NA	NA
+2142	skdeco2_2142	30995	unnatural	-3	NA	18:07:00	953	181	NA	NA	NA	NA
+2142	skdeco2_2142	30965	technological implant	0	NA		831	470.99609375	NA	NA	NA	NA
+2177	slnyse2_2177	31631	Concentration	3	NA	NA	234	30	NA	NA	NA	NA
+2177	slnyse2_2177	31630	Individuality	-3	NA	NA	691	30	NA	NA	NA	NA
+2177	slnyse2_2177	31628	Self Control	-2	NA	NA	145.8	349	NA	NA	NA	NA
+2177	slnyse2_2177	31624	Health	1	NA	NA	660	158	NA	NA	NA	NA
+2177	slnyse2_2177	31618	Sleep Deprivation	3	NA	NA	599	477	NA	NA	NA	NA
+2177	slnyse2_2177	31616	Ability	2	NA	NA	332	458	NA	NA	NA	NA
+2177	slnyse2_2177	31614	technological implant	0	NA	NA	380	272	NA	NA	NA	NA
+2192	smkijo2_2192	31863	Betterment of work force and economy	2	having the chip efficiently working sleep schedules of the working masses would better the economy as a more uniformed workforce would be efficient	12:10:48	513	429	NA	NA	NA	NA
+2192	smkijo2_2192	31862	Moral and decision effects	10	The chip could help this due to better sleep but could also have unknown effects on this negatively too. It has been noted there is concerns on the chip effecting troops' decisions in military action, leading to unecessary or excess violence.	14:22:58	1151	412	NA	NA	NA	NA
+2192	smkijo2_2192	31855	Health	10	having the chip efficiently working sleep schedules of the working masses would better the economy as a more uniformed workforce would be efficient	14:26:50	948.667	168	NA	NA	NA	NA
+2192	smkijo2_2192	34583	Technological Implant	0	The technological implant is the topic for discussion today. The sub-topic below help divide topics as such about the implant.	14:24:01	601	20	NA	NA	NA	NA
+2192	smkijo2_2192	31869	Technological breach/hackers/biotech medical warfare	-3	hackers could hack the chip and commence biotech medical warfare	12:08:46	441	326	NA	NA	NA	NA
+2192	smkijo2_2192	31868	Bypass of human rights	-2	Having an implant in you that controls autonomy bypasses some human rights	14:22:04	335	516	NA	NA	NA	NA
+2192	smkijo2_2192	31867	Lack of bodily autonomy	-3	the chip overtakes bodily control and lacks a person of their bodily autonomy	12:09:25	239	287	NA	NA	NA	NA
+2192	smkijo2_2192	31866	Personal anxiety condition	-2	personally my anxiety cannot handle huge changes such as a chip implant	12:09:41	20	280	NA	NA	NA	NA
+2192	smkijo2_2192	31865	Feeling of togetherness	2	Having the implant impliment a good routine and structure to numerous people could lead to a feeling of togetherness in having the implant and discussion about the implant could boost morale amongst populations and groups.	14:25:27	709	330	NA	NA	NA	NA
+2192	smkijo2_2192	31864	Have and have-not classism	-2	having the chip and not having the chip could cause a divide and othering that isn't good for society	12:11:32	661	503	NA	NA	NA	NA
+2192	smkijo2_2192	31861	Mental Health Effects	10	The chip could help this due to better sleep but could also have unknown effects on this negatively too.	12:12:35	1163	285	NA	NA	NA	NA
+2192	smkijo2_2192	31860	Cognitive Effect	10	The chip could help this due to better sleep but could also have unknown effects on this negatively too.	12:12:37	1177	145	NA	NA	NA	NA
+2192	smkijo2_2192	31859	Military use	10	military use of the chip can have benefits but also huge risk	14:22:18	894	418	NA	NA	NA	NA
+2192	smkijo2_2192	31858	Effective R&R periods	2	Effective rest periods are beneficial to most people and systems. the chip can help support a healthier and more effective rest period	14:23:29	1127	544	NA	NA	NA	NA
+2192	smkijo2_2192	31857	Personal reasonings	10	Personal Reasonings is the first sub-topic of discussion and bring both pros and cons into the field of the tech implant from my personal perspectives as an individual.	14:18:29	96	144	NA	NA	NA	NA
+2192	smkijo2_2192	31856	Socio-political	10	Socio-political aspects is the second sub-topic of discussion and bring both pros and cons into the field of the tech implant	14:24:45	581	156	NA	NA	NA	NA
+2122	sutoje2_2122	32002	Could Create Social Difference	-1	Having the technology might be interpreted as a status symbol, or as a personal weakness that one needs technology to function at a higher level. Some jobs might start to require the technology, which would limit opportunities for those who refuse to install the new technology.	20:20:40	25	343.957	NA	NA	NA	NA
+2122	sutoje2_2122	32001	Unknown Impact on Society	0	It is unknown what will happen if this new form technology is implemented and used by members of society. 	20:16:58	370.98	502.04	NA	NA	NA	NA
+2122	sutoje2_2122	32000	Impact on Society	1	A more alert and rested society means a more productive society where less mistakes are made.	20:09:20	303.946	361.949	NA	NA	NA	NA
+2122	sutoje2_2122	31999	Environmental Impact	1	Unlike medications, the technology is unpackaged once. There is no excess packaging that goes to waste when used by the consumer/user. There would be less medication manufacturing and the waste that comes from production, and waste obtaining and shipping raw materials and the final product. 	20:04:51	355	36.9659	NA	NA	NA	NA
+2122	sutoje2_2122	31995	cost effective	1	Given the technology is implanted only once, and it is to be used long term, the user would see huge savings in the long term not having to visit doctors nor pay for medications and other solutions for their sleep and wakefulness issues. 	19:41:40	597.372	313.906	NA	NA	NA	NA
+2122	sutoje2_2122	30993	Non Chemical Solution	1	Not using medication to treat alertness and sleep problems is much easier on the body.	19:29:32	588.955	173.906	NA	NA	NA	NA
+2122	sutoje2_2122	30953	Long Term	1	While initial installation is invasive, upgrades and removal are not invasive at all as the implant is designed for long term use	17:58:25	584.622	452.912	NA	NA	NA	NA
+2122	sutoje2_2122	30940	Invasive	-1	Having the technology directly implanted in one's body is rather invasive. Is there potential for infection?	19:26:19	90.8949	502.884	NA	NA	NA	NA
+2122	sutoje2_2122	30707	possible security risks	-2	potential for missuse by others and possible coercion 	17:45:41	25	199.949	NA	NA	NA	NA
+2122	sutoje2_2122	30903	Health Benefits	1	Regular sleep patterns along with guaranteed alertness would improve quality of life	19:29:54	559.943	26	NA	NA	NA	NA
+2122	sutoje2_2122	30665	Unknown side effects	-1	It is unknown if there could be side effects from the implementation of this  technology or its long-term use. 	19:23:17	52.983	34.9915	NA	NA	NA	NA
+2122	sutoje2_2122	30639	technological implant	0	 		336.96	153.929	NA	NA	NA	NA
+2166	swpoma2_2166	31554	Parties / Gatherings	2	NA		560.683	220.518	NA	NA	NA	NA
+2166	swpoma2_2166	31553	Replacement for prisons - Perma sleep	-3	NA	20:06:40	641.384	716.013	NA	NA	NA	NA
+2166	swpoma2_2166	31552	Permanent sleep / Execution	-3	NA		448.857	716.143	NA	NA	NA	NA
+2166	swpoma2_2166	31550	Use for personal gain	-1	NA		1232.86	265.429	NA	NA	NA	NA
+2166	swpoma2_2166	31548	Bullying	-1	NA		1224	148.857	NA	NA	NA	NA
+2166	swpoma2_2166	31546	Exploitation	-2	NA	20:04:15	1072.55	205.281	NA	NA	NA	NA
+2166	swpoma2_2166	31541	Happier work enviroments	1	NA		1268.42	491.991	NA	NA	NA	NA
+2166	swpoma2_2166	31539	Better moods	2	NA		1250.54	371.853	NA	NA	NA	NA
+2166	swpoma2_2166	31537	Positive interactions	1	NA		1094.85	437.277	NA	NA	NA	NA
+2166	swpoma2_2166	31532	Potential use in criminal justice	-1	NA		571.969	614.978	NA	NA	NA	NA
+2166	swpoma2_2166	31398	Risk of hacking	-3	NA	19:34:39	451.746	539.929	NA	NA	NA	NA
+2166	swpoma2_2166	31465	Individual	0	NA		862.714	204.46	NA	NA	NA	NA
+2166	swpoma2_2166	31459	Societal	0	NA		876.915	484.728	NA	NA	NA	NA
+2166	swpoma2_2166	31445	Relationships	1	NA		567.688	104.696	NA	NA	NA	NA
+2166	swpoma2_2166	31426	Time Management	1	NA		689.165	179.196	NA	NA	NA	NA
+2166	swpoma2_2166	31411	Exploitation	-3	NA	19:34:28	618.406	488.071	NA	NA	NA	NA
+2166	swpoma2_2166	31410	Evolution	10	NA	19:45:25	1216.04	650.951	NA	NA	NA	NA
+2166	swpoma2_2166	31408	Mental health	0	NA	19:38:17	519.92	20	NA	NA	NA	NA
+2166	swpoma2_2166	31407	bugs/glitches/mistakes	-1	NA	19:44:37	535.621	373.951	NA	NA	NA	NA
+2166	swpoma2_2166	31405	Sprituality	-1	NA	19:44:12	697.031	271.504	NA	NA	NA	NA
+2166	swpoma2_2166	31403	Biological Engineering	0	NA		1065.9	566.915	NA	NA	NA	NA
+2166	swpoma2_2166	31402	Privacy risk	-2	NA	19:44:34	447.295	456.179	NA	NA	NA	NA
+2166	swpoma2_2166	31400	Social	0	NA	19:31:30	1008.17	80.9554	NA	NA	NA	NA
+2166	swpoma2_2166	31399	In and out groups	-1	NA		1163.95	4.95982	NA	NA	NA	NA
+2166	swpoma2_2166	31395	Brain functionality	3	NA	19:39:08	672.263	20	NA	NA	NA	NA
+2166	swpoma2_2166	31394	Sleep	3	NA	19:29:51	787.362	97.9643	NA	NA	NA	NA
+2166	swpoma2_2166	31387	technological implant	0	NA		878.973	347.982	NA	NA	NA	NA
+2119	sybash2_2119	31063	App/phone to control use	10	This means the implant is easy to use but may have negative consequences - somebody using your phone can control your body, hacking, technical issues, etc	18:36:09	402.66	29.5417	NA	NA	NA	NA
+2119	sybash2_2119	30777	Self -sustaining and repairing	2	Self-sustains using available substances in the body, can perform it's own minor repairs	17:52:06	494.177	526.042	NA	NA	NA	NA
+2119	sybash2_2119	30730	Minimally invasive	2	Because the implant doesn't require maintenance, can perform minor repairs by itself,  and lasts up to 20 years it's about as non-invasive as a technological implant could be	17:50:27	844.976	522.076	NA	NA	NA	NA
+2119	sybash2_2119	30677	Long-lasting	2	Contributes to the implant being as non-invasive as possible	17:43:59	844.944	264.965	NA	NA	NA	NA
+2119	sybash2_2119	30631	Personal use	2	NA	17:41:13	720	72.2049	NA	NA	NA	NA
+2119	sybash2_2119	30618	technological implant	0	 		495.972	264.955	NA	NA	NA	NA
+2125	syload2_2125	31117	addictions	-3	NA	18:09:10	24	636	NA	NA	NA	NA
+2125	syload2_2125	30825	invasion of privacy	-3	NA	17:51:24	211.354	665.229	NA	NA	NA	NA
+2125	syload2_2125	31069	improved country security	3	NA	18:04:57	138	138	NA	NA	NA	NA
+2125	syload2_2125	31036	more time spent with loved ones	3	NA	18:03:01	712	106	NA	NA	NA	NA
+2125	syload2_2125	31010	increased alcohol consumption	-3	NA	18:00:59	216.316	444.983	NA	NA	NA	NA
+2125	syload2_2125	31004	increased drug taking	-3	NA	18:00:29	30.9861	468.663	NA	NA	NA	NA
+2125	syload2_2125	30991	increased partying	10	NA	18:00:03	117.653	323.667	NA	NA	NA	NA
+2125	syload2_2125	30960	world peace	3	NA	17:57:48	1162	58.3333	NA	NA	NA	NA
+2125	syload2_2125	30937	viruses	-3	NA	17:56:03	800	673.333	NA	NA	NA	NA
+2125	syload2_2125	30930	added features	2	NA	17:55:49	1207.98	731.979	NA	NA	NA	NA
+2125	syload2_2125	30923	improved functionality	3	NA	17:55:39	1252.96	600.646	NA	NA	NA	NA
+2125	syload2_2125	30913	modding	3	NA	17:55:37	988.646	551.292	NA	NA	NA	NA
+2125	syload2_2125	30752	increased conflicts	-3	NA	17:51:55	454.965	20	NA	NA	NA	NA
+2125	syload2_2125	30895	next stage of evolution	3	NA	17:53:50	1339.31	267.979	NA	NA	NA	NA
+2125	syload2_2125	30877	greater knowledge	3	NA	17:53:05	963.962	410.611	NA	NA	NA	NA
+2125	syload2_2125	30835	psychological harm	-3	NA	17:51:37	608.389	671.247	NA	NA	NA	NA
+2125	syload2_2125	30829	physical harm	-3	NA	17:51:26	405.955	670.694	NA	NA	NA	NA
+2125	syload2_2125	30799	greater progress in science	3	NA	17:48:46	1109.9	224.514	NA	NA	NA	NA
+2125	syload2_2125	30785	malicious hacking	-3	NA	17:49:25	527.948	423.958	NA	NA	NA	NA
+2125	syload2_2125	30684	less sleep needed	3	NA	17:46:57	681.958	226.938	NA	NA	NA	NA
+2125	syload2_2125	30748	improved military	10	NA	17:47:26	240.958	18	NA	NA	NA	NA
+2125	syload2_2125	30690	improved productivity	3	NA	17:47:06	905.955	189.962	NA	NA	NA	NA
+2125	syload2_2125	30654	technological implant	0	NA		435.986	228.997	NA	NA	NA	NA
+2200	thcape2_2200	31922	treatment of sleep disorders	3	This is the only reasonable application of the implant in my opinion. To treat sometimes fatal sleep disorders. 	17:44:01	61	589.667	NA	NA	NA	NA
+2200	thcape2_2200	31921	reduced accidents	2	Accidents are sometimes caused by sleepiness (e.g. traffic, work-related) so this could be reduced.	17:43:14	20.6667	420	NA	NA	NA	NA
+2200	thcape2_2200	31920	productivity	10	The implant could increase productivity in work and education. However, this is also open to abuse.	17:44:33	175	361	NA	NA	NA	NA
+2200	thcape2_2200	31919	Health benefits	2	NA		196	501	NA	NA	NA	NA
+2200	thcape2_2200	31918	implant can fix itself	1	NA	17:36:52	43	220	NA	NA	NA	NA
+2200	thcape2_2200	31917	implant will degrade	2	NA	17:37:50	203	20	NA	NA	NA	NA
+2200	thcape2_2200	31916	powers itself	10	this sounds good but it means the implant is having some interaction with other bodily processes which might not be good	17:36:25	25	20	NA	NA	NA	NA
+2200	thcape2_2200	31915	characteristics of implant	0	NA		88	116	NA	NA	NA	NA
+2200	thcape2_2200	31914	Recreational misuse	-3	As in people staying awake to socialise, party etc. This might have long term health impacts	17:39:48	367	447	NA	NA	NA	NA
+2200	thcape2_2200	31913	Professional organisations	-3	NA	17:41:08	452	553.333	NA	NA	NA	NA
+2200	thcape2_2200	31912	Hackers and other criminals	-3	Hacking into the implant to make people wake or sleep. Could be used for blackmail and murder.	17:41:45	676	544	NA	NA	NA	NA
+2200	thcape2_2200	31911	Government	-1	NA	17:42:29	573	326	NA	NA	NA	NA
+2200	thcape2_2200	31910	Misuse and abuse	-3	NA		578	455	NA	NA	NA	NA
+2200	thcape2_2200	31909	malfunction	-3	NA	17:38:55	694	177	NA	NA	NA	NA
+2200	thcape2_2200	31908	cognitive problems	-3	NA	17:39:10	696.667	65	NA	NA	NA	NA
+2200	thcape2_2200	31907	technological creep	-3	NA	17:38:18	539	20	NA	NA	NA	NA
+2200	thcape2_2200	31906	reliance	-3	As in people become reliant on using the implant to sleep and can no longer sleep any other way	17:38:42	400	72	NA	NA	NA	NA
+2200	thcape2_2200	31905	Unknown future impacts	-3	NA	17:38:51	548	126	NA	NA	NA	NA
+2200	thcape2_2200	31904	technological implant	0	 		327	280	NA	NA	NA	NA
+2317	thwhda2_2317	35464	No proof of long term affects	-3	NA	21:16:31	762	192	NA	NA	NA	NA
+2317	thwhda2_2317	35463	Could be hacked	-3	NA	21:15:42	601	570	NA	NA	NA	NA
+2317	thwhda2_2317	35462	Can be controlled by an app	10	NA	21:17:32	673	408	NA	NA	NA	NA
+2317	thwhda2_2317	35461	No proof of affects this has on the brain or body	-3	NA	21:14:55	429	441	NA	NA	NA	NA
+2317	thwhda2_2317	35460	Dissolves when damaged	10	NA	21:17:41	162	423	NA	NA	NA	NA
+2317	thwhda2_2317	35459	People may use and abuse it to party etc.	-3	NA		205	59	NA	NA	NA	NA
+2317	thwhda2_2317	35458	Allows people to control sleep	3	NA	21:13:01	78	241	NA	NA	NA	NA
+2317	thwhda2_2317	35457	Goes against nature	-3	NA	21:11:13	695	295	NA	NA	NA	NA
+2317	thwhda2_2317	35456	Immoral	-3	NA		473	26	NA	NA	NA	NA
+2317	thwhda2_2317	35455	Lack of testing	-3	NA		738	47	NA	NA	NA	NA
+2317	thwhda2_2317	35454	technological implant	0	NA		378	272	NA	NA	NA	NA
+2124	trquji2_2124	30950	user control	3	NA	17:57:19	534.714	-5	NA	NA	NA	NA
+2124	trquji2_2124	30942	improvement of circadian rhythm	1	NA	17:56:26	1447.57	254.429	NA	NA	NA	NA
+2124	trquji2_2124	30938	saves the government money, lower taxes	1	NA		1438.57	405.714	NA	NA	NA	NA
+2124	trquji2_2124	30929	potential for abuse via never sleeping? could that cause death?	10	NA	17:55:26	560.143	639	NA	NA	NA	NA
+2124	trquji2_2124	30911	scary	10	NA	17:54:48	232.853	701	NA	NA	NA	NA
+2124	trquji2_2124	30907	lack of  testing	-1	NA	17:54:28	361.129	575.848	NA	NA	NA	NA
+2124	trquji2_2124	30894	political nightmare?	10	NA	17:53:45	66.8571	607.571	NA	NA	NA	NA
+2124	trquji2_2124	30888	social divide	-3	NA		26.2679	364.277	NA	NA	NA	NA
+2124	trquji2_2124	30884	have vs have not class system	-2	NA		195.241	434.268	NA	NA	NA	NA
+2124	trquji2_2124	30870	increased death toll?	-3	NA	17:52:37	20	119.984	NA	NA	NA	NA
+2124	trquji2_2124	30867	loss of empathy in military	-3	NA		141.991	171	NA	NA	NA	NA
+2124	trquji2_2124	30853	effect on school?	-1	NA		216.117	12.2617	NA	NA	NA	NA
+2124	trquji2_2124	30851	limitless partying for teenagers	-1	NA		278.418	224.703	NA	NA	NA	NA
+2124	trquji2_2124	30843	potential for hacking	-3	NA	17:50:41	392.965	79.7031	NA	NA	NA	NA
+2124	trquji2_2124	30826	guaranteed naps for people who need them	1	NA		695.567	495.138	NA	NA	NA	NA
+2124	trquji2_2124	30816	optimised learning curve	3	NA		906.696	606.411	NA	NA	NA	NA
+2124	trquji2_2124	30811	fewer fatigue induced accidents	3	NA		1047.71	545.982	NA	NA	NA	NA
+2124	trquji2_2124	30738	increased accomplishment in military	1	NA	17:45:28	1126.98	433.844	NA	NA	NA	NA
+2124	trquji2_2124	30732	lower rate of addiction to sleeping pills	3	NA		1140	306.714	NA	NA	NA	NA
+2124	trquji2_2124	30727	regulation of sleep and wake cycles	3	NA		1371.1	144.656	NA	NA	NA	NA
+2124	trquji2_2124	30711	fewer and more manageable sleep disorders	2	NA	17:44:20	1075.84	79.4107	NA	NA	NA	NA
+2124	trquji2_2124	30698	energy efficient	2	NA		890.143	38.9955	NA	NA	NA	NA
+2124	trquji2_2124	30685	control via app	1	NA		703.982	64	NA	NA	NA	NA
+2124	trquji2_2124	30676	biodegradable	3	NA		551.991	151.987	NA	NA	NA	NA
+2124	trquji2_2124	30671	cons	-1	NA	17:41:46	473.951	395.987	NA	NA	NA	NA
+2124	trquji2_2124	30670	pros	1	NA		839.951	200.96	NA	NA	NA	NA
+2124	trquji2_2124	30668	technological implant	0	NA		633.955	313.978	NA	NA	NA	NA
+2194	tulosa2_2194	31886	My well-being	1	NA	20:39:09	288	20	NA	NA	NA	NA
+2194	tulosa2_2194	31885	Partner	2	NA	20:38:38	1076	287	NA	NA	NA	NA
+2194	tulosa2_2194	31884	More expensive	-1	NA	20:37:06	837	525	NA	NA	NA	NA
+2194	tulosa2_2194	31883	My performance	2	NA	20:36:05	130	40	NA	NA	NA	NA
+2194	tulosa2_2194	31882	Sleeping	2	NA	20:36:07	468	33	NA	NA	NA	NA
+2194	tulosa2_2194	31881	My health conditions	2	NA	20:36:11	367	172	NA	NA	NA	NA
+2194	tulosa2_2194	31880	Implant price	10	NA	20:37:10	557	514	NA	NA	NA	NA
+2194	tulosa2_2194	31879	Money	2	NA	20:36:14	20	319	NA	NA	NA	NA
+2194	tulosa2_2194	31878	Co-workers	0	NA	20:38:40	1013	400	NA	NA	NA	NA
+2194	tulosa2_2194	31876	Family	-2	NA	20:38:45	1048	148	NA	NA	NA	NA
+2194	tulosa2_2194	31875	Reactions	10	NA	20:38:47	810	306	NA	NA	NA	NA
+2194	tulosa2_2194	31874	Impacts on me	3	NA	20:36:20	268	298	NA	NA	NA	NA
+2194	tulosa2_2194	31873	technological implant	0	NA		563	277	NA	NA	NA	NA
+2152	tunojo2_2152	31249	Human error	-1	Someone could lose their phone and lose control of their sleep .	18:42:41	25	544	NA	NA	NA	NA
+2152	tunojo2_2152	31160	Health	10	"Sleep is good for your health.
+But some people could use this implant to stop themselves from sleeping. Also too much sleep could be bad for your mental health and fitness. "	18:41:34	514	544	NA	NA	NA	NA
+2152	tunojo2_2152	31256	Better workers	1	People who have more sleep and are less fatigued are more likely to perform well in their jobs. This could make dangerous mistakes less likely to happen. 	18:36:38	829.8	190	NA	NA	NA	NA
+2152	tunojo2_2152	31214	Military	10	The bad point is that the soldiers have shown in some case to be more prepared to kill, but soliders also need good quality sleep and their schedule is very important	18:34:41	20	27	NA	NA	NA	NA
+2152	tunojo2_2152	31230	Autonomous energy	1	NA	18:25:00	29	166	NA	NA	NA	NA
+2152	tunojo2_2152	31206	Guaranteed sleep	3	It is very well known that sleep is good for you	18:35:51	890	72.9875	NA	NA	NA	NA
+2152	tunojo2_2152	31198	Repairs itself	2	This makes the implant more reliable 	18:34:54	73	275	NA	NA	NA	NA
+2152	tunojo2_2152	31190	Late night parties	0	NA	18:19:06	332	115	NA	NA	NA	NA
+2152	tunojo2_2152	31186	Addiction	-3	Too much of a good thing can become addictive and over controlling 	18:45:32	176	20	NA	NA	NA	NA
+2152	tunojo2_2152	31182	Fun	10	NA	18:34:56	495	53	NA	NA	NA	NA
+2152	tunojo2_2152	31178	Elderly care	2	NA	18:25:05	685	441	NA	NA	NA	NA
+2152	tunojo2_2152	31173	Hackers	-3	They could know when you are asleep and rob you.	18:39:36	179	544	NA	NA	NA	NA
+2152	tunojo2_2152	31170	Scary	-1	Nothing has been proven on a large scale 	18:43:59	264	431	NA	NA	NA	NA
+2152	tunojo2_2152	31166	Danger	-2	NA	18:44:03	40	403	NA	NA	NA	NA
+2152	tunojo2_2152	31165	Crime	-3	NA		790	355	NA	NA	NA	NA
+2152	tunojo2_2152	31164	Efficiency	1	NA	18:45:07	195	210	NA	NA	NA	NA
+2152	tunojo2_2152	31157	Organization	1	NA	18:24:53	677	74.975	NA	NA	NA	NA
+2152	tunojo2_2152	31155	Safety	3	NA	18:41:55	642	229	NA	NA	NA	NA
+2152	tunojo2_2152	31151	technological implant	0	 		378	272	NA	NA	NA	NA
+2131	tuplsi2_2131	30944	imrpoves mental health	3	NA	17:57:25	1137	165	NA	NA	NA	NA
+2131	tuplsi2_2131	30928	Plays with nature	-3	NA	17:55:37	410.333	575	NA	NA	NA	NA
+2131	tuplsi2_2131	30896	encourages potential future implants	-3	NA	17:54:50	100.286	24.6562	NA	NA	NA	NA
+2131	tuplsi2_2131	30874	Unknown longtern health effects	-3	NA		23.9792	209.974	NA	NA	NA	NA
+2131	tuplsi2_2131	30863	potentially could be hacked	-3	NA		795.906	25.9635	NA	NA	NA	NA
+2131	tuplsi2_2131	30854	cost unknown but could prohibit some patients from access	-1	NA		487.943	99.6094	NA	NA	NA	NA
+2131	tuplsi2_2131	30839	improves  performance at work	1	NA		868.641	277.656	NA	NA	NA	NA
+2131	tuplsi2_2131	30815	improves sleep	3	NA	17:57:21	982.974	486.323	NA	NA	NA	NA
+2131	tuplsi2_2131	30797	brings sufferers off long term medication	3	NA		690.464	546.479	NA	NA	NA	NA
+2131	tuplsi2_2131	30771	benefits people with sleep issues	3	NA	17:48:38	713.219	354.473	NA	NA	NA	NA
+2131	tuplsi2_2131	30763	technological implant	0	NA		444.995	323.984	NA	NA	NA	NA
+2176	unulro2_2176	31626	Data privacy and security risk	-3	NA	NA	1026	523	NA	NA	NA	NA
+2176	unulro2_2176	31625	Employers may abuse their employees and overwork them	-3	NA	NA	963	177	NA	NA	NA	NA
+2176	unulro2_2176	31623	Can give people more time to accomplish tasks	3	NA	NA	1190	20	NA	NA	NA	NA
+2176	unulro2_2176	31621	Could create have and have-not class system	-3	NA	NA	1100	356	NA	NA	NA	NA
+2176	unulro2_2176	31620	Could alter the mentality of soldiers negatively	-3	NA	NA	712	544	NA	NA	NA	NA
+2176	unulro2_2176	31619	Soldiers can go days without sleep	2	NA	NA	490	544	NA	NA	NA	NA
+2176	unulro2_2176	31617	Military use	10	NA	NA	600	420	NA	NA	NA	NA
+2176	unulro2_2176	31615	Can be used to treat sleep disorders	3	NA	NA	729	20	NA	NA	NA	NA
+2176	unulro2_2176	31612	Can help regulate sleep-wake cycle	3	NA	NA	963	20	NA	NA	NA	NA
+2176	unulro2_2176	31611	Can decompose if the user no longer wants or if damaged	3	NA	NA	44	544	NA	NA	NA	NA
+2176	unulro2_2176	31610	Self-repairing	3	NA	NA	46	432	NA	NA	NA	NA
+2176	unulro2_2176	31609	No maintenance required	3	NA	NA	264	486	NA	NA	NA	NA
+2176	unulro2_2176	31608	Vulnerable to hackers	-3	NA	NA	82	326	NA	NA	NA	NA
+2176	unulro2_2176	31607	Ease of use and increased functionality	3	NA	NA	87	179	NA	NA	NA	NA
+2176	unulro2_2176	31606	Controlled via an app	10	NA	NA	267	247	NA	NA	NA	NA
+2176	unulro2_2176	31605	Easily implanted	3	NA	NA	22	20	NA	NA	NA	NA
+2176	unulro2_2176	31604	Small size	3	NA	NA	268	20	NA	NA	NA	NA
+2176	unulro2_2176	31602	technological implant	0	NA	NA	600	246	NA	NA	NA	NA
+2195	vapiji2_2195	31900	Entertainment reasons	10	NA	02:10:19	1208.99	502.988	NA	NA	NA	NA
+2195	vapiji2_2195	31899	Response reasons for soldiers, first responders, etc	3	NA	02:05:00	850	477.984	NA	NA	NA	NA
+2195	vapiji2_2195	31898	Doctor/Medical for health reasons	3	NA	02:04:51	638	478	NA	NA	NA	NA
+2195	vapiji2_2195	31897	Monitor person	10	NA	02:04:31	700	312.984	NA	NA	NA	NA
+2195	vapiji2_2195	31896	Better sleep balance	3	NA	02:04:48	1009	332	NA	NA	NA	NA
+2195	vapiji2_2195	31895	Any potential side effects ? (long or short term)	10	Like anything else put into the body, what are the possible side effects. Can there be issues years from now? What if it doesn't take in your body or you have a severe reaction to it?	02:08:46	1003	64	NA	NA	NA	NA
+2195	vapiji2_2195	31894	Healthier living	3	NA	02:04:37	864	200	NA	NA	NA	NA
+2195	vapiji2_2195	31893	What if its hacked	-3	Can it be used to suddenly put people to sleep? Can it be reprogrammed to harm or kill people?	02:12:44	154	475	NA	NA	NA	NA
+2195	vapiji2_2195	31892	3rd Party Access	0	NA	02:04:19	396.992	415.992	NA	NA	NA	NA
+2195	vapiji2_2195	31891	Access to user data	10	NA	02:04:09	190.98	322.988	NA	NA	NA	NA
+2195	vapiji2_2195	31890	Ease of Use	3	How is it used by a user	02:07:04	178.984	189	NA	NA	NA	NA
+2195	vapiji2_2195	31889	Control Sleep	3	What does it do	02:07:25	685.996	201.988	NA	NA	NA	NA
+2195	vapiji2_2195	31888	technological implant	0	 		473	267	NA	NA	NA	NA
+2116	wabada2_2116	30784	More pay by hour	1	NA		20	239	NA	NA	NA	NA
+2116	wabada2_2116	30772	Surgery Times less straining	3	NA		20	405	NA	NA	NA	NA
+2116	wabada2_2116	30757	consciousness at work	10	NA	17:46:36	183	443	NA	NA	NA	NA
+2116	wabada2_2116	30747	Work / career	0	NA		168	319	NA	NA	NA	NA
+2116	wabada2_2116	30736	Time for activities & Hobbies	3	NA		249	102	NA	NA	NA	NA
+2116	wabada2_2116	30729	more friends &family time	3	NA		384	117	NA	NA	NA	NA
+2116	wabada2_2116	30722	Leisure	0	NA		256	195	NA	NA	NA	NA
+2116	wabada2_2116	30705	PTSD?	10	NA		640	243	NA	NA	NA	NA
+2116	wabada2_2116	30695	More strategy and invasions	10	NA		424	421	NA	NA	NA	NA
+2116	wabada2_2116	30686	Prone to accidents	-1	NA		511	619	NA	NA	NA	NA
+2116	wabada2_2116	30682	More experience	1	NA	17:42:23	836	610	NA	NA	NA	NA
+2116	wabada2_2116	30669	Firearms	0	NA		593	544	NA	NA	NA	NA
+2116	wabada2_2116	30666	more training	2	NA	17:41:21	991	523	NA	NA	NA	NA
+2116	wabada2_2116	30663	Advantage, more tactical	1	NA		800	462	NA	NA	NA	NA
+2116	wabada2_2116	30652	Ending happy dreams	-1	NA		621	-11	NA	NA	NA	NA
+2116	wabada2_2116	30647	nightmares eleviated	2	NA		441	3	NA	NA	NA	NA
+2116	wabada2_2116	30641	Dreams?	10	NA		552	59	NA	NA	NA	NA
+2116	wabada2_2116	30635	Military	0	NA		584	402	NA	NA	NA	NA
+2116	wabada2_2116	30621	Lack of mental rest	-1	NA		772	283	NA	NA	NA	NA
+2116	wabada2_2116	30619	Perceiving Life Differently	10	NA	17:37:54	912	206	NA	NA	NA	NA
+2116	wabada2_2116	30616	Effect on mental health	10	NA	17:37:19	690	40	NA	NA	NA	NA
+2116	wabada2_2116	30611	Control Sleep Disorders	2	NA		822	76	NA	NA	NA	NA
+2116	wabada2_2116	30608	Mental Health	0	NA		632	153	NA	NA	NA	NA
+2116	wabada2_2116	30607	technological implant	0	NA		378	272	NA	NA	NA	NA
+2128	wienke2_2128	31025	No more insomnia	3	NA	18:02:02	498.522	20	NA	NA	NA	NA
+2128	wienke2_2128	31000	Easy to stop using	2	NA	18:00:37	1238.89	214.212	NA	NA	NA	NA
+2128	wienke2_2128	30922	Moral or ethical concerns	10	NA	17:55:35	497.544	325.762	NA	NA	NA	NA
+2128	wienke2_2128	30859	Better scheduling	1	NA	17:51:53	226.433	21	NA	NA	NA	NA
+2128	wienke2_2128	30822	Societal Pressure	0	NA	17:49:52	342.77	471.206	NA	NA	NA	NA
+2128	wienke2_2128	30802	Bio-degradable	1	NA	17:48:54	965.556	106.768	NA	NA	NA	NA
+2128	wienke2_2128	30776	Hackable	-3	NA	17:47:37	705.649	513.996	NA	NA	NA	NA
+2128	wienke2_2128	30761	Discrimination	-2	NA	17:46:45	68.1012	506.984	NA	NA	NA	NA
+2128	wienke2_2128	30755	Employer Pressure	-1	NA	17:46:34	30.7679	137.321	NA	NA	NA	NA
+2128	wienke2_2128	30742	Unknown psychological effects	-2	NA		248.196	224.2	NA	NA	NA	NA
+2128	wienke2_2128	30735	Drug-free	1	NA		1071.4	311.927	NA	NA	NA	NA
+2128	wienke2_2128	30724	Self-repairing	3	NA		757.972	31.9742	NA	NA	NA	NA
+2128	wienke2_2128	30710	Controlled sleep	0	NA	17:51:56	498.208	166.99	NA	NA	NA	NA
+2128	wienke2_2128	30702	Low maintenance	3	NA	17:43:40	1227.87	21	NA	NA	NA	NA
+2128	wienke2_2128	30694	Controllable by phone	2	NA	17:43:12	958.996	474.31	NA	NA	NA	NA
+2128	wienke2_2128	30673	technological implant	0	NA		757.996	255.994	NA	NA	NA	NA

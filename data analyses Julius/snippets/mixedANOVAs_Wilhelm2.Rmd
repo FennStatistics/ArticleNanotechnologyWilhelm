@@ -1,0 +1,272 @@
+---
+title: "mixedANOVA_Wilhelm"
+author: "Julius Fenn"
+date: "24 6 2021"
+output: 
+  html_document:
+    toc: yes
+    toc_depth: 3
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+require(pacman)
+p_load('tidyverse', 'psych', 'afex', 'rstatix', 'xlsx', 'ggplot2', 'lattice',
+       'stargazer')
+
+dat_wide <- read.xlsx(file = "dat_wide_merged_final.xlsx", sheetIndex = 1)
+dat_long <- read.xlsx(file = "dat_long_merged_final.xlsx", sheetIndex = 1)
+```
+
+# Analysen Wilhelm
+```{r }
+## Dimensions of dataset
+dim(dat_long)
+```
+
+## TAM Mittelwertbildung
+```{r }
+## TAM variables in dataset
+str_subset(string = colnames(dat_long), pattern = "^tam_.+")
+```
+
+**Fragen zu TAM Mittelwertbildung:**
+
+* Sollen alle Skalen in die Bildung eines TAM Mittelwerts einbezogen werden? 
+
+Gegenargument: Manche Subskalen sind untereinander kaum korrelliert - wir mischen hier Äpfel und Birnen: 
+
+```{r }
+psych::cor.plot(r = cor(dat_long[, str_detect(string = colnames(dat_long), pattern = "^tam_.+")]
+                        , use = "pairwise.complete.obs"),
+                upper = FALSE, xlas = 2)
+```
+
+
+* Welche Items sollten für die TAM Skala invertiert werden? 
+
+Möglichkeit über Korrelationsplot oben bzw. über part-whole korrigierte Trennschärfe $r_{it(i)}$: $r_{it(i)} = r_{(y_i, y(i))}$
+
+```{r KTT_Trennschaerfe_tam_res}
+cor(dat_long$tam_res.01, rowSums(dat_long[, c("tam_res.02", "tam_res.03", "tam_res.04")], na.rm = TRUE), use = "complete")
+cor(dat_long$tam_res.02, rowSums(dat_long[, c("tam_res.01", "tam_res.03", "tam_res.04")], na.rm = TRUE), use = "complete")
+cor(dat_long$tam_res.03, rowSums(dat_long[, c("tam_res.01", "tam_res.02", "tam_res.04")], na.rm = TRUE), use = "complete")
+cor(dat_long$tam_res.04, rowSums(dat_long[, c("tam_res.01", "tam_res.02", "tam_res.03")], na.rm = TRUE), use = "complete")
+```
+
+
+*ohne Invertierung / Selektion Items Bildung Mittelwert über alle TAM Fragen:*
+
+
+## AVs deskriptiv
+```{r }
+head(rowMeans(x = dat_long[, str_subset(string = colnames(dat_long), pattern = "^tam_.+")]))
+dat_long$TAM_mean <- rowMeans(x = dat_long[, str_subset(string = colnames(dat_long), pattern = "^tam_.+")])
+hist(dat_long$TAM_mean); shapiro.test(x = dat_long$TAM_mean)
+hist(dat_long$mean_valence_macro); shapiro.test(x = dat_long$mean_valence_macro)
+```
+
+
+## 2x3 vs 2x2 mixed ANOVAs
+
+Verwendung von code snippets von [datanovia Mixed ANOVA in R ](https://www.datanovia.com/en/lessons/mixed-anova-in-r/)
+
+### Datenaufbereitung
+
+Funktionen:
+```{r , include=TRUE}
+# summary function
+data_summary <- function(data, varname, groupnames){
+  require(plyr)
+  summary_func <- function(x, col){
+    c(mean = mean(x[[col]], na.rm=TRUE),
+      se = sd(x[[col]], na.rm=TRUE) / sqrt(length(x[[col]])))
+  }
+  data_sum<-ddply(data, groupnames, .fun=summary_func,
+                  varname)
+  data_sum <- plyr::rename(data_sum, c("mean" = varname))
+  return(data_sum)
+}
+
+# adjust aesthetics of ggplot
+ggplot_theme <- theme(axis.title.x = element_blank(),
+                      axis.title.y = element_text(size=12),
+                      axis.text.x = element_text(size=10,hjust=0.5,vjust=0.5,face="plain", colour = "black"),
+                      axis.text.y = element_text(size=12,face="plain", colour = "black"),
+                      panel.border = element_blank(),
+                      axis.line = element_line(colour = "black"),
+                      panel.grid.major = element_blank(),
+                      panel.grid.minor = element_blank(),
+                      panel.background = element_blank())
+```
+
+Datenaufbereitung: 
+
+```{r , include=TRUE}
+### remove 15 with no data at t1 (time point 2)
+dat_long <- dat_long[!is.na(dat_long$idcodegroup),]
+table(dat_long$idcodegroup, dat_long$timepoint)
+```
+
+
+
+
+
+
+### 2x2 (within x between)
+
+#### my approach
+Für AV "mean_valence_macro"
+```{r }
+dat_long %>% 
+  group_by(idcodegroup, timepoint) %>%
+dplyr::summarise(n = n(), mean=mean(mean_valence_macro), sd=sd(mean_valence_macro))
+
+
+# transform one experimental group to the other
+dat_long$mean_valence_macro_alt2 <- dat_long$mean_valence_macro
+
+## code t0, t1 negative:
+dat_long$mean_valence_macro_alt2[dat_long$idcodegroup == "positive" & dat_long$timepoint == 0] <- dat_long$mean_valence_macro_alt2[dat_long$idcodegroup == "positive" & dat_long$timepoint == 0 & !is.na(dat_long$mean_valence_macro_alt2)] * - 1
+dat_long$mean_valence_macro_alt2[dat_long$idcodegroup == "positive" & dat_long$timepoint == 1] <- dat_long$mean_valence_macro_alt2[dat_long$idcodegroup == "positive" & dat_long$timepoint == 1 & !is.na(dat_long$mean_valence_macro_alt2)] * - 1
+
+
+# dat_long$mean_valence_macro_alt2[dat_long$prolific_pid == "5e6473fbc15dbe1f71eea95b"]
+
+dat_long %>% 
+  group_by(idcodegroup, timepoint) %>%
+dplyr::summarise(n = n(), mean=mean(mean_valence_macro_alt2), sd=sd(mean_valence_macro_alt2))
+
+
+dat_long %>% 
+  group_by(idcodegroup, timepoint) %>%
+dplyr::summarise(n = n(), mean=mean(mean_valence_macro), sd=sd(mean_valence_macro))
+
+dat_long$idcodegroup_sum <- dat_long$idcodegroup 
+
+dat_long$idcodegroup_sum[dat_long$idcodegroup == "positive"] <- "negative"
+dat_long %>%
+  group_by(idcodegroup_sum, timepoint) %>%
+dplyr::summarise(n = n(), mean=mean(mean_valence_macro_alt2), sd=sd(mean_valence_macro_alt2))
+
+
+### mixed ANOVAs
+fit1 <- afex::aov_car(mean_valence_macro_alt2 ~ timepoint*idcodegroup_sum + Error(prolific_pid / timepoint),
+                      data = dat_long)
+
+fit1a <- afex::aov_ez(id = "prolific_pid", dv = "mean_valence_macro_alt2",
+                      data = dat_long, between=c("idcodegroup_sum"), within=c("timepoint"))
+
+# partical eta squared
+anova(fit1, es = "pes")
+# generalized eta squared
+fit1a # > identical results
+
+
+## plot results
+dfvalcor <- data_summary(dat_long, varname="mean_valence_macro_alt2",
+                         groupnames=c("timepoint","idcodegroup_sum"))
+dfvalcor
+
+# create ggplot2 object for X
+p <- ggplot(dfvalcor, aes(x=timepoint, y=mean_valence_macro_alt2, fill=idcodegroup_sum)) +
+  geom_bar(stat="identity", color="black",
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=mean_valence_macro_alt2-se, ymax=mean_valence_macro_alt2+se), width=.2,
+                position=position_dodge(.9)) + ggplot_theme + ylab(label = "average valence assigned to corona concept")
+print(p)
+```
+
+
+
+#### Wilhelms approach
+Für AV "mean_valence_macro"
+
+```{r }
+#downgrading to 2x2
+dat_long_2 <-
+  dat_long %>%
+  mutate_at("idcodegroup", str_replace, "positive", "experimental") %>%
+  mutate_at("idcodegroup", str_replace, "negative", "experimental")
+table(dat_long_2$idcodegroup)
+
+###pre-post differences
+##filtering and ordering
+dat_long_2_sub <- dat_long_2 %>%
+  select(prolific_pid, timepoint, idcodegroup, mean_valence_macro) %>%
+  filter(timepoint == 0) %>%
+  filter(str_detect(idcodegroup, "experimental"))
+dat_long_2_sub_ordered <- dat_long_2_sub[ order( dat_long_2_sub$prolific_pid), ]
+head(dat_long_2_sub_ordered)
+
+
+dat_long_2_sub2 <- dat_long_2 %>%
+  select(prolific_pid, timepoint, idcodegroup, mean_valence_macro) %>%
+  filter(timepoint == 1) %>%
+  filter(str_detect(idcodegroup, "experimental"))
+dat_long_2_sub2_ordered <- dat_long_2_sub2[ order( dat_long_2_sub2$prolific_pid), ]
+head(dat_long_2_sub2_ordered)
+
+##computing pre-post differences
+cam_diff_eg <- (dat_long_2_sub_ordered$mean_valence_macro -
+dat_long_2_sub2_ordered$mean_valence_macro)
+head(cam_diff_eg)
+
+#removing negative signs
+cam_diff_eg_abs <- abs(cam_diff_eg)
+head(cam_diff_eg_abs)
+```
+
+### 2x3 (within x between)
+```{r , include=TRUE}
+### mixed ANOVAs
+fit1 <- afex::aov_car(mean_valence_macro ~ timepoint*idcodegroup + Error(prolific_pid / timepoint),
+                      data = dat_long)
+
+fit1a <- afex::aov_ez(id = "prolific_pid", dv = "mean_valence_macro",
+                      data = dat_long, between=c("idcodegroup"), within=c("timepoint"))
+
+
+# partical eta squared
+anova(fit1, es = "pes")
+# generalized eta squared
+fit1a # > identical results
+
+
+
+### use ggplot2 to draw barplot:
+
+
+## plot results
+dfvalcor <- data_summary(dat_long, varname="mean_valence_macro",
+                         groupnames=c("timepoint","idcodegroup"))
+dfvalcor
+
+# create ggplot2 object for X
+p <- ggplot(dfvalcor, aes(x=timepoint, y=mean_valence_macro, fill=idcodegroup)) +
+  geom_bar(stat="identity", color="black",
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=mean_valence_macro-se, ymax=mean_valence_macro+se), width=.2,
+                position=position_dodge(.9)) + ggplot_theme + ylab(label = "average valence assigned to corona concept")
+print(p)
+
+
+## post hoc tests: 
+# Effect of group at each time point
+one.way <- dat_long %>%
+  group_by(timepoint) %>%
+  anova_test(dv = mean_valence_macro, wid = prolific_pid, between = idcodegroup) %>%
+  get_anova_table() %>%
+  adjust_pvalue(method = "bonferroni")
+one.way
+
+
+# Pairwise comparisons between group levels
+pwc <- dat_long %>%
+  group_by(timepoint) %>%
+  pairwise_t_test(mean_valence_macro ~ idcodegroup, p.adjust.method = "bonferroni")
+pwc
+
+```

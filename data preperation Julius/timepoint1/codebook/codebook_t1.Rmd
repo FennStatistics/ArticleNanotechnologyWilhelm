@@ -1,0 +1,146 @@
+---
+title: "Codebook timepoint 1"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    code_folding: 'hide'
+    self_contained: true
+  pdf_document:
+    toc: yes
+    toc_depth: 4
+    latex_engine: xelatex
+---
+
+Here, we're just setting a few options.
+
+```{r setup, echo=TRUE, include=FALSE, warning=FALSE}
+require(pacman)
+p_load('tidyverse', 'jsonlite', 'pracma', 'xlsx', 'lme4',
+       'performance', 'lattice', 'stargazer', 'psych', 'plyr', 'codebook')
+
+knitr::opts_chunk$set(
+  warning = TRUE, # show warnings during codebook generation
+  message = TRUE, # show messages during codebook generation
+  error = TRUE, # do not interrupt codebook generation in case of errors,
+                # usually better for debugging
+  echo = TRUE  # show R code
+)
+ggplot2::theme_set(ggplot2::theme_bw())
+```
+
+Now, we're preparing our data for the codebook.
+
+```{r prepare_codebook, echo=TRUE, include=FALSE, warning=FALSE}
+# library(codebook)
+# codebook_data <- dat_merged_sel #codebook::bfi
+# to import an SPSS file from the same folder uncomment and edit the line below
+# codebook_data <- rio::import("mydata.sav")
+# for Stata
+# codebook_data <- rio::import("mydata.dta")
+# for CSV
+# codebook_data <- rio::import("mydata.csv")
+# for CSV
+codebook_data <- read.xlsx(file = "questionnaire_final_t1.xlsx", sheetIndex = 1)
+# codebook_data[c(6:10, 16:142, 152, 153, 156:195)] <- sapply(codebook_data[c(6:10, 16:142, 152, 153, 156:195)],as.numeric)
+codebook_data$ID <- as.character(codebook_data$ID)
+codebook_data$sociodemo_age <- as.numeric(codebook_data$sociodemo_age)
+
+# omit the following lines, if your missing values are already properly labelled
+codebook_data <- detect_missing(codebook_data,
+    only_labelled = TRUE, # only labelled values are autodetected as
+                                   # missing
+    negative_values_are_missing = FALSE, # negative values are missing values
+    ninety_nine_problems = TRUE,   # 99/999 are missing values, if they
+                                   # are more than 5 MAD from the median
+    )
+
+# If you are not using formr, the codebook package needs to guess which items
+# form a scale. The following line finds item aggregates with names like this:
+# scale = scale_1 + scale_2R + scale_3R
+# identifying these aggregates allows the codebook function to
+# automatically compute reliabilities.
+# However, it will not reverse items automatically.
+codebook_data$relativist <- codebook_data %>%
+  select(matches(match = "^relativist")) %>%
+  aggregate_and_document_scale()
+codebook_data$contractualist <- codebook_data %>%
+  select(matches(match = "^contractualist")) %>%
+  aggregate_and_document_scale()
+codebook_data$hedonism <- codebook_data %>%
+  select(matches(match = "^hedonism")) %>%
+  aggregate_and_document_scale()
+codebook_data$utilitarian <- codebook_data %>%
+  select(matches(match = "^utilitarian")) %>%
+  aggregate_and_document_scale()
+codebook_data$deontology <- codebook_data %>%
+  select(matches(match = "^deontology")) %>%
+  aggregate_and_document_scale()
+codebook_data$virtue <- codebook_data %>%
+  select(matches(match = "^virtue")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$panas_negative <- codebook_data %>%
+  select(matches(match = "^panas.+n$")) %>%
+  aggregate_and_document_scale()
+codebook_data$panas_positive <- codebook_data %>%
+  select(matches(match = "^panas.+p$")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$conflictman <- codebook_data %>%
+  select(matches(match = "^conflictman")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_bi <- codebook_data %>%
+  select(matches(match = "^tam_bi")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_canx <- codebook_data %>%
+  select(matches(match = "^tam_canx")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_enj <- codebook_data %>%
+  select(matches(match = "^tam_enj")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_img <- codebook_data %>%
+  select(matches(match = "^tam_img")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_pec <- codebook_data %>%
+  select(matches(match = "^tam_pec")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_pu <- codebook_data %>%
+  select(matches(match = "^tam_pu")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_rel <- codebook_data %>%
+  select(matches(match = "^tam_rel")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_res <- codebook_data %>%
+  select(matches(match = "^tam_res")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_sn <- codebook_data %>%
+  select(matches(match = "^tam_sn")) %>%
+  aggregate_and_document_scale()
+
+codebook_data$TAM_vol <- codebook_data %>%
+  select(matches(match = "^tam_vol")) %>%
+  aggregate_and_document_scale()
+
+
+codebook_data <- detect_scales(codebook_data)
+```
+
+Create codebook
+
+```{r codebook, warning=FALSE}
+codebook(codebook_data,
+                    detailed_variables = TRUE,
+                    detailed_scales = TRUE,
+         metadata_json = FALSE)
+```

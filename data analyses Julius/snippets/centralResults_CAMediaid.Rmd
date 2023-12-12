@@ -1,0 +1,260 @@
+---
+title: "outline and central results - CAM in mediation"
+author: "Julius Fenn, idea by Wilhelm Gros"
+date: "30 11 2022"
+output: 
+  html_document:
+    toc: yes
+    toc_depth: 3
+    number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+require(pacman)
+p_load('tidyverse', 'jsonlite', 'pracma', 'xlsx', 'lme4', 'nlme',
+       'performance', 'lattice', 'stargazer', 'psych', 'ggplot2', 'lavaan', 'polycor', 'ggstatsplot', 'rstatix')
+
+
+### Daten
+# Read the text file from JATOS ...
+dir()
+dat_wide <- read.xlsx(file = "dat_wide_merged_final.xlsx", sheetIndex = 1)
+dat_long <- read.xlsx(file = "dat_long_merged_final.xlsx", sheetIndex = 1)
+
+
+dat_long <- dat_long[!is.na(dat_long$idcodegroup),]
+sort(table(dat_long$prolific_pid))
+
+dat_long$pre <- ifelse(test = dat_long$timepoint == 0, yes = 1, no = 0)
+dat_long$post <- ifelse(test = dat_long$timepoint == 1, yes = 1, no = 0)
+
+dat_long <- fastDummies::dummy_cols(dat_long, select_columns = "idcodegroup",
+                                    remove_first_dummy = FALSE)
+
+
+##################
+# factor scores (Bartlett) for PANAS scale negative
+##################
+### using polychoric correlation matrix
+fit_efa <- fa(r = dat_long[,str_subset(string = colnames(dat_long), pattern = "panas.*n$")],
+              nfactors = 1, rotate = "none", max.iter = 500, cor = "poly", scores = "Bartlett")
+dat_long$fc_panas_neg <- fit_efa$scores
+
+
+#####################################################
+# summary function
+data_summary <- function(data, varname, groupnames){
+  require(plyr)
+  summary_func <- function(x, col){
+    c(mean = mean(x[[col]], na.rm=TRUE),
+      se = sd(x[[col]], na.rm=TRUE) / sqrt(length(x[[col]])))
+  }
+  data_sum<-ddply(data, groupnames, .fun=summary_func,
+                  varname)
+  data_sum <- plyr::rename(data_sum, c("mean" = varname))
+  return(data_sum)
+}
+
+# adjust aesthetics of ggplot
+ggplot_theme <- theme(axis.title.x = element_blank(),
+                      axis.title.y = element_text(size=12),
+                      axis.text.x = element_text(size=10,hjust=0.5,vjust=0.5,face="plain", colour = "black"),
+                      axis.text.y = element_text(size=12,face="plain", colour = "black"),
+                      panel.border = element_blank(),
+                      axis.line = element_line(colour = "black"),
+                      panel.grid.major = element_blank(),
+                      panel.grid.minor = element_blank(),
+                      panel.background = element_blank())
+```
+
+
+
+
+# Outline
+
+* additional to mean_valence of CAMs, we have multiple other (dependent) variables
+  * multiple outcome variables (dummy, perceived acceptability)
+  * multiple scales of the "Technology Acceptance Model"
+  * PANAS Scale
+  * general feelings about technology (livmats related questions)
+  * multiple network indicators
+
+
+* two general procedures of analysis are possible: 
+  * **quantitative:** test multiple models (multivariate multilevel models or mixed ANOVAs) regarding the mixed design
+  * **qualitative:** summarize CAM data followed by *graph alignment* to check which specific areas of concepts (superordinate topics) have changed after the treatment
+  * plus present usefullness of CAM method descriptively (e.g. aggregated CAM, discussion of general concerns)
+
+
+
+# Central Results
+
+## Descriptive
+
+* removed 15 participants, because no data at t1 (= time point 2), which is a dropout of about 14%
+* the study design is a **mixed design with 2 (within) x 3 (between) levels**
+
+```{r }
+## matching conditions (time X treatment)
+table(dat_long$idcodegroup, dat_long$timepoint)
+```
+
+* just for illustration I include only 2 variables in the following analyses:
+
+**mean_valence**
+```{r }
+g <- dat_long$mean_valence_macro
+h <- hist(g, breaks = 10, density = 10,
+          col = "gray", xlab = "mean_valence_macro", main = "overlay normal curve") 
+xfit <- seq(min(g), max(g), length = 40) 
+yfit <- dnorm(xfit, mean = mean(g), sd = sd(g)) 
+yfit <- yfit * diff(h$mids[1:2]) * length(g) 
+
+lines(xfit, yfit, col = "black", lwd = 2)
+```
+
+
+**fc_panas_neg**
+which are computed factor scores of the negative emotion items of PANAS (using polychoric correlations to account for the non-normality of items, factor score computed using method Bartlett)
+
+
+```{r }
+g <- dat_long$fc_panas_neg
+h <- hist(g, breaks = 10, density = 10,
+          col = "gray", xlab = "fc_panas_neg", main = "overlay normal curve") 
+xfit <- seq(min(g), max(g), length = 40) 
+yfit <- dnorm(xfit, mean = mean(g), sd = sd(g)) 
+yfit <- yfit * diff(h$mids[1:2]) * length(g) 
+
+lines(xfit, yfit, col = "black", lwd = 2)
+```
+
+
+
+## multivariate multilevel models
+
+*motivation using these kind of models: when computing ANOVAs in the context of regression models (= multivariate multilevel models) we do not need to run any post-hoc test anymore and in theory can compute more complex interactions of even latent regressions, for example, by applying so called latent change score models*
+
+
+```{r}
+# mean difference between fixed occasions model for 3 groups:
+mmm1 <- lme(mean_valence_macro ~ 1 + post*idcodegroup_positive +
+              post*idcodegroup_negative,
+            random = ~ 1 + post | prolific_pid,
+            data = dat_long,
+            control=list(sigma=1e-10, opt="optim"))
+
+summary(mmm1)
+```
+
+
+```{r}
+# add Level-2 predictor fc_panas_neg
+mmm2 <- lme(mean_valence_macro ~ 1 + post*idcodegroup_positive +
+              post*idcodegroup_negative + post*fc_panas_neg,
+            random = ~ 1 + post | prolific_pid,
+            data = dat_long,
+            control=list(sigma=1e-10, opt="optim"))
+
+summary(mmm2)
+```
+
+
+**visualize results**
+for participants who had drawn a negative CAM and a positive prototype was presented
+
+```{r}
+# create a plot
+p <- ggwithinstats(
+  data = filter(dat_long, idcodegroup == "negative"),
+  x    = timepoint,
+  y    = mean_valence_macro,
+  type = "np"
+)
+# looking at the plot
+p
+```
+
+for participants who had drawn a positive CAM and a negative prototype was presented
+```{r}
+# create a plot
+p <- ggwithinstats(
+  data = filter(dat_long, idcodegroup == "positive"),
+  x    = timepoint,
+  y    = mean_valence_macro,
+  type = "np"
+)
+# looking at the plot
+p
+```
+
+for participants where no prototype was presented
+```{r}
+# create a plot
+p <- ggwithinstats(
+  data = filter(dat_long, idcodegroup == "control"),
+  x    = timepoint,
+  y    = mean_valence_macro,
+  type = "np"
+)
+# looking at the plot
+p
+```
+
+
+## mixed ANOVA
+
+we get identical results to multivariate multilevel models, but also estimates for generalized and partial eta squared (effect sizes), which are nice to report if anyone in the future wants to do a meta-analysis on our results (recommendation of Daniel Lakens)
+
+
+**mixed ANOVA**
+```{r}
+fit1 <- afex::aov_car(mean_valence_macro ~ timepoint*idcodegroup + Error(prolific_pid / timepoint),
+                      data = dat_long)
+fit1a <- afex::aov_ez(id = "prolific_pid", dv = "mean_valence_macro",
+                      data = dat_long, between=c("idcodegroup"), within=c("timepoint"))
+
+# partical eta squared
+anova(fit1, es = "pes")
+# generalized eta squared
+fit1a # > identical results
+```
+
+
+**visualize results**
+```{r}
+dfvalcor <- data_summary(dat_long, varname="mean_valence_macro",
+                         groupnames=c("timepoint","idcodegroup"))
+p <- ggplot(dfvalcor, aes(x=timepoint, y=mean_valence_macro, fill=idcodegroup)) +
+  geom_bar(stat="identity", color="black",
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=mean_valence_macro-se, ymax=mean_valence_macro+se), width=.2,
+                position=position_dodge(.9)) + ggplot_theme + ylab(label = "average valence CAMs")
+print(p)
+```
+
+
+**run post hoc tests**
+```{r}
+# Effect of group at each time point
+one.way <- dat_long %>%
+  group_by(timepoint) %>%
+  anova_test(dv = mean_valence_macro, wid = prolific_pid, between = idcodegroup) %>%
+  get_anova_table() %>%
+  adjust_pvalue(method = "bonferroni")
+one.way
+
+# Pairwise comparisons between group levels
+pwc <- dat_long %>%
+  group_by(timepoint) %>%
+  pairwise_t_test(mean_valence_macro ~ idcodegroup, p.adjust.method = "bonferroni")
+pwc
+```
+
+
+
+
+
+
